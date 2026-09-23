@@ -1,0 +1,16 @@
+{
+  "app": "IACA_PROJECT_DISCOVERY",
+  "kind": "draft",
+  "schemaVersion": "2.0",
+  "questionnaireVersion": "IACA-PD-2.0",
+  "exportedAt": "2026-09-23T21:20:00.070Z",
+  "classOnlyId": "P8R2X",
+  "grade": 7,
+  "period": "2",
+  "answers": {
+    "phenomena": [
+      "how-does-yeast-help-bread-rise"
+    ],
+    "interest-detail": "Baking & drawing: why does dough rise? 🥖"
+  }
+}

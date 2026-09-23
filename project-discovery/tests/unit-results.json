@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 558,
+  "grades": [
+    6,
+    7
+  ],
+  "scope": "Actual shipped data, tagging, validation, TXT/JSON, local-storage behavior with normal and blocked storage mocks. Browser interactions recorded separately."
+}

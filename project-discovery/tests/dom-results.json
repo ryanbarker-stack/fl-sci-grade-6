@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": 75,
+  "results": [
+    {
+      "grade": 6,
+      "passed": true,
+      "downloads": 3
+    },
+    {
+      "grade": 7,
+      "passed": true,
+      "downloads": 3
+    }
+  ],
+  "scope": "Actual shipped app.js event handlers in jsdom. Native file picker and layout are not represented. Browser TXT downloads checked separately."
+}

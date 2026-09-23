@@ -1,0 +1,12 @@
+{
+  "pass": true,
+  "minimumForTestedNormalText": 4.5,
+  "ratios": {
+    "182c28 on f3f6f4": 13.5,
+    "4a605a on ffffff": 6.75,
+    "ffffff on 164c3c": 9.84,
+    "164c3c on e2eee7": 8.26,
+    "a04526 on f3f6f4": 5.72,
+    "a12323 on ffffff": 7.55
+  }
+}

@@ -1,0 +1,169 @@
+PROJECT DISCOVERY QUESTIONNAIRE
+Class-Only ID: B9F3W
+Grade: 6
+Period: 3
+Questionnaire version: IACA-PD-2.0
+Schema version: 2.0
+Exported at (UTC): 2026-09-23T21:10:57.687Z
+Status: COMPLETE
+Privacy: Pseudonymous. Written responses require teacher review before AI use.
+
+=== A — WHAT CATCHES YOUR ATTENTION? ===
+Question [phenomena]: Which questions would you most like to explore?
+> None of these / not sure yet
+
+=== B — WHERE WOULD YOU EXPLORE? ===
+Question [environments]: Where would you spend a day investigating?
+> None of these / not sure yet
+
+=== C — THINGS YOU ALREADY LIKE ===
+Question [interests]: What do you already enjoy?
+> Sports / basketball / soccer; Fashion / sneakers / design; Gaming
+
+Question [interest-focus]: Which part of your interests might you like to look at more closely?
+> How people test or improve a design
+
+Question [interest-detail]: Pick one thing you enjoy. What part keeps your attention?
+> I like basketball, sneakers, and games. I am not sure science is my thing.
+
+=== D — THINGS YOU HAVE NOTICED ===
+Question [experiences]: Which have you tried or watched?
+> [Not answered — optional]
+
+Question [noticed]: What have you noticed that seems strange, surprising, or hard to explain?
+> I don’t know yet.
+
+=== E — YOUR KIND OF MYSTERY ===
+Question [mysteries]: Which kinds of figuring things out sound satisfying?
+> None of these / not sure yet
+
+=== F — HOW WOULD YOU INVESTIGATE? ===
+Question [methods]: How interested are you in trying these methods?
+> Testing an idea with an experiment: Not rated
+> Making repeated observations: Not rated
+> Taking measurements: Not rated
+> Photographing changes: Not rated
+> Graphing data: Not rated
+> Analyzing an existing dataset: Not rated
+> Building something: Not rated
+> Making a physical model: Open to it
+> Making a digital model: Not rated
+> Mapping something: Open to it
+> Researching reliable sources: Open to it
+> Comparing examples: Excited to try
+> Watching change over months: Not rated
+> Testing and improving designs: Not rated
+> Observing outdoors: Not rated
+> Using simulations: Not rated
+> Explaining a complicated idea: Not rated
+> Creating diagrams: Not rated
+> Keeping a science journal: Open to it
+
+=== G — PROBLEMS WORTH UNDERSTANDING ===
+Question [problems]: Which problems would you like to understand better?
+> None of these / not sure yet
+
+=== H — RESOURCES YOU COULD USE ===
+Question [resources]: Which resources could you comfortably use?
+> Resources available at school — my preferred option
+
+=== I — A PROJECT THAT CAN KEEP GROWING ===
+Question [sustain]: What could you keep doing for several months?
+> Do most project work at school; Change methods as the project develops
+
+Question [routine]: What kind of weekly work would suit you?
+> [Not answered — optional]
+
+Question [keep-going]: What would make you want to keep coming back to a project?
+> [Not answered — optional]
+
+=== J — YOUR OWN QUESTIONS ===
+Question [wonder]: What is something about nature, Earth, space, or living things that you wonder about?
+> I don’t know yet.
+
+Question [scientist-question]: If a scientist could answer one question for you, what would you ask?
+> I don’t know yet.
+
+Question [improve]: Is there something you would like to understand, predict, explain, or improve?
+> [Not answered — optional]
+
+=== K — YOUR CONSULTANT PROFILE ===
+Question [skills]: How do these consultant skills feel right now?
+> Finding information: Learning
+> Summarizing information: Learning
+> Explaining difficult ideas: Learning
+> Writing: Learning
+> Drawing diagrams: Comfortable
+> Visual design: Learning
+> Graphing: Want to learn
+> Working with numbers: Learning
+> Spotting patterns: Strong
+> Building: Learning
+> Experimenting: Learning
+> Technology: Learning
+> Organization: Learning
+> Troubleshooting: Learning
+> Generating ideas: Learning
+> Asking good questions: Learning
+> Presenting: Learning
+> Noticing details: Learning
+> Checking evidence: Learning
+> Improving someone else’s idea: Learning
+> Giving useful feedback: Learning
+
+Question [consultant-jobs]: Which THREE consultant jobs would you most enjoy?
+> Spotting patterns; Drawing diagrams; Asking good questions
+
+Question [growth]: Which TWO OR THREE skills would you like to improve?
+> Graphing; Checking evidence
+
+=== HIDDEN TAGS — TEACHER USE ===
+consultant-interest:asking-good-questions
+consultant-interest:drawing-diagrams
+consultant-interest:spotting-patterns
+consultant-strength:drawing-diagrams
+consultant-strength:spotting-patterns
+growth:checking-evidence
+growth:graphing
+interest-focus:how-people-test-or-improve-a-design
+interest:fashion-sneakers-design
+interest:gaming
+interest:sports-basketball-soccer
+method:comparison
+method:documentation
+method:mapping
+method:physical-model
+method:source-research
+project-format:adaptive-methods
+project-format:school-based
+resource:resources-available-at-school-my-preferred-option
+skill-level:comfortable:drawing-diagrams
+skill-level:learning:asking-good-questions
+skill-level:learning:building
+skill-level:learning:checking-evidence
+skill-level:learning:experimenting
+skill-level:learning:explaining-difficult-ideas
+skill-level:learning:finding-information
+skill-level:learning:generating-ideas
+skill-level:learning:giving-useful-feedback
+skill-level:learning:improving-someone-else-s-idea
+skill-level:learning:noticing-details
+skill-level:learning:organization
+skill-level:learning:presenting
+skill-level:learning:summarizing-information
+skill-level:learning:technology
+skill-level:learning:troubleshooting
+skill-level:learning:visual-design
+skill-level:learning:working-with-numbers
+skill-level:learning:writing
+skill-level:strong:spotting-patterns
+skill-level:want-to-learn:graphing
+state:not-sure
+
+=== POSSIBLE SCIENCE CONNECTIONS — NOT SCORES ===
+
+=== TENTATIVE BRIDGES — REVIEW BEFORE USE ===
+
+=== MACHINE-READABLE RECORD ===
+The last line is a complete JSON record. Parse it with JSON.parse; do not execute it.
+{"app":"IACA_PROJECT_DISCOVERY","kind":"submission","schemaVersion":"2.0","questionnaireVersion":"IACA-PD-2.0","exportedAt":"2026-09-23T21:10:57.687Z","classOnlyId":"B9F3W","grade":6,"period":"3","answers":{"phenomena":["not-sure"],"environments":["not-sure"],"interests":["sports-basketball-soccer","fashion-sneakers-design","gaming"],"interest-detail":"I like basketball, sneakers, and games. I am not sure science is my thing.","noticed":"I don’t know yet.","mysteries":["not-sure"],"methods":{"comparison":"excited","source-research":"open","physical-model":"open","mapping":"open","documentation":"open"},"problems":["not-sure"],"resources":["resources-available-at-school-my-preferred-option"],"sustain":["school-based","adaptive-methods"],"wonder":"I don’t know yet.","scientist-question":"I don’t know yet.","skills":{"finding-information":"learning","summarizing-information":"learning","explaining-difficult-ideas":"learning","writing":"learning","drawing-diagrams":"comfortable","visual-design":"learning","graphing":"want-to-learn","working-with-numbers":"learning","spotting-patterns":"strong","building":"learning","experimenting":"learning","technology":"learning","organization":"learning","troubleshooting":"learning","generating-ideas":"learning","asking-good-questions":"learning","presenting":"learning","noticing-details":"learning","checking-evidence":"learning","improving-someone-else-s-idea":"learning","giving-useful-feedback":"learning"},"consultant-jobs":["spotting-patterns","drawing-diagrams","asking-good-questions"],"growth":["graphing","checking-evidence"],"interest-focus":["how-people-test-or-improve-a-design"]},"tags":["consultant-interest:asking-good-questions","consultant-interest:drawing-diagrams","consultant-interest:spotting-patterns","consultant-strength:drawing-diagrams","consultant-strength:spotting-patterns","growth:checking-evidence","growth:graphing","interest-focus:how-people-test-or-improve-a-design","interest:fashion-sneakers-design","interest:gaming","interest:sports-basketball-soccer","method:comparison","method:documentation","method:mapping","method:physical-model","method:source-research","project-format:adaptive-methods","project-format:school-based","resource:resources-available-at-school-my-preferred-option","skill-level:comfortable:drawing-diagrams","skill-level:learning:asking-good-questions","skill-level:learning:building","skill-level:learning:checking-evidence","skill-level:learning:experimenting","skill-level:learning:explaining-difficult-ideas","skill-level:learning:finding-information","skill-level:learning:generating-ideas","skill-level:learning:giving-useful-feedback","skill-level:learning:improving-someone-else-s-idea","skill-level:learning:noticing-details","skill-level:learning:organization","skill-level:learning:presenting","skill-level:learning:summarizing-information","skill-level:learning:technology","skill-level:learning:troubleshooting","skill-level:learning:visual-design","skill-level:learning:working-with-numbers","skill-level:learning:writing","skill-level:strong:spotting-patterns","skill-level:want-to-learn:graphing","state:not-sure"],"domainConnections":[],"tagEvidence":{"state:not-sure":[{"question":"phenomena","choice":"None of these / not sure yet"},{"question":"environments","choice":"None of these / not sure yet"},{"question":"mysteries","choice":"None of these / not sure yet"},{"question":"problems","choice":"None of these / not sure yet"}],"interest:sports-basketball-soccer":[{"question":"interests","choice":"Sports / basketball / soccer"}],"interest:fashion-sneakers-design":[{"question":"interests","choice":"Fashion / sneakers / design"}],"interest:gaming":[{"question":"interests","choice":"Gaming"}],"interest-focus:how-people-test-or-improve-a-design":[{"question":"interest-focus","choice":"How people test or improve a design"}],"method:comparison":[{"question":"methods","choice":"Comparing examples — excited"}],"method:source-research":[{"question":"methods","choice":"Researching reliable sources — open"}],"method:physical-model":[{"question":"methods","choice":"Making a physical model — open"}],"method:mapping":[{"question":"methods","choice":"Mapping something — open"}],"method:documentation":[{"question":"methods","choice":"Keeping a science journal — open"}],"resource:resources-available-at-school-my-preferred-option":[{"question":"resources","choice":"Resources available at school — my preferred option"}],"project-format:school-based":[{"question":"sustain","choice":"Do most project work at school"}],"project-format:adaptive-methods":[{"question":"sustain","choice":"Change methods as the project develops"}],"skill-level:learning:finding-information":[{"question":"skills","choice":"Finding information — learning"}],"skill-level:learning:summarizing-information":[{"question":"skills","choice":"Summarizing information — learning"}],"skill-level:learning:explaining-difficult-ideas":[{"question":"skills","choice":"Explaining difficult ideas — learning"}],"skill-level:learning:writing":[{"question":"skills","choice":"Writing — learning"}],"skill-level:comfortable:drawing-diagrams":[{"question":"skills","choice":"Drawing diagrams — comfortable"}],"consultant-strength:drawing-diagrams":[{"question":"skills","choice":"Drawing diagrams — comfortable"}],"skill-level:learning:visual-design":[{"question":"skills","choice":"Visual design — learning"}],"skill-level:want-to-learn:graphing":[{"question":"skills","choice":"Graphing — want-to-learn"}],"growth:graphing":[{"question":"skills","choice":"Graphing — want-to-learn"},{"question":"growth","choice":"Graphing"}],"skill-level:learning:working-with-numbers":[{"question":"skills","choice":"Working with numbers — learning"}],"skill-level:strong:spotting-patterns":[{"question":"skills","choice":"Spotting patterns — strong"}],"consultant-strength:spotting-patterns":[{"question":"skills","choice":"Spotting patterns — strong"}],"skill-level:learning:building":[{"question":"skills","choice":"Building — learning"}],"skill-level:learning:experimenting":[{"question":"skills","choice":"Experimenting — learning"}],"skill-level:learning:technology":[{"question":"skills","choice":"Technology — learning"}],"skill-level:learning:organization":[{"question":"skills","choice":"Organization — learning"}],"skill-level:learning:troubleshooting":[{"question":"skills","choice":"Troubleshooting — learning"}],"skill-level:learning:generating-ideas":[{"question":"skills","choice":"Generating ideas — learning"}],"skill-level:learning:asking-good-questions":[{"question":"skills","choice":"Asking good questions — learning"}],"skill-level:learning:presenting":[{"question":"skills","choice":"Presenting — learning"}],"skill-level:learning:noticing-details":[{"question":"skills","choice":"Noticing details — learning"}],"skill-level:learning:checking-evidence":[{"question":"skills","choice":"Checking evidence — learning"}],"skill-level:learning:improving-someone-else-s-idea":[{"question":"skills","choice":"Improving someone else’s idea — learning"}],"skill-level:learning:giving-useful-feedback":[{"question":"skills","choice":"Giving useful feedback — learning"}],"consultant-interest:spotting-patterns":[{"question":"consultant-jobs","choice":"Spotting patterns"}],"consultant-interest:drawing-diagrams":[{"question":"consultant-jobs","choice":"Drawing diagrams"}],"consultant-interest:asking-good-questions":[{"question":"consultant-jobs","choice":"Asking good questions"}],"growth:checking-evidence":[{"question":"growth","choice":"Checking evidence"}]},"tentativeBridges":[],"openResponseInterpretation":"Not inferred automatically. Teacher review required before AI use.","freeTextReviewStatus":"TEACHER_REVIEW_REQUIRED","directIdentifierCheck":"Student confirmed ID and reviewed for personal details; not a guarantee of de-identification."}

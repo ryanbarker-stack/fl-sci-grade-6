@@ -1,0 +1,24 @@
+ASSIGNMENT TITLE
+Year-Long Science Project — Discover Your Questions
+
+ASSIGNMENT INSTRUCTIONS
+Today you are looking for science connections in things you already care about. You are not choosing your final project yet. There are no “correct” interests.
+
+1. Open the Project Discovery website: [PASTE YOUR GITHUB PAGES URL HERE]
+2. Choose your grade. Enter the Class-Only ID your teacher gave you and your class period. Check the code carefully. Do not type your name anywhere in the questionnaire.
+3. Answer thoughtfully. Most questions use checkboxes or ratings. A phrase or one or two sentences is enough for written answers. “I don’t know yet” is okay. Leave names, account names, contact information, and private personal details out of your answers.
+4. Use Next, Previous, or the section buttons to move around. You may change your answers.
+5. At Review, check your ID and your answers. Finish any required items that are listed. Check both review boxes.
+6. Choose Create submission file (.txt). Find the file in Downloads. It will look like G6_Project_Discovery_K7M4Q.txt or G7_Project_Discovery_P8R2X.txt, using YOUR Class-Only ID.
+7. Return to THIS Classroom assignment. Under Your work, choose Add or create → File. Use Upload / Browse to attach your downloaded .txt file.
+8. Check that the attached filename shows your correct grade and Class-Only ID. Click Turn in, confirm, and check for Turned in.
+9. Once you have checked your downloaded file, use the website’s Clear saved copy button, especially on a shared Chromebook.
+
+IF YOU DO NOT FINISH TODAY
+Choose Save draft to file before leaving. Find the file ending in _DRAFT.json. Keep it in your school-approved private files; you may also attach it to this assignment so your teacher can see your progress. A draft is unfinished work. Do not mark the assignment finished unless your teacher tells you to.
+
+To continue: download your draft from Classroom if needed, open the questionnaire website, and choose Open a saved draft file. Check that its ID is yours. Finish the questionnaire, create the final .txt file, replace the draft attachment with that final file, and click Turn in.
+
+If you only refreshed the same browser, choose your grade and enter the same ID to restore its local saved answers. If recovery fails, open your downloaded draft. Ask your teacher for help rather than starting over silently.
+
+Your Classroom account tells your teacher who submitted the file. The questionnaire itself uses only your Class-Only ID.

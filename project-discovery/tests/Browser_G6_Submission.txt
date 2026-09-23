@@ -1,0 +1,206 @@
+PROJECT DISCOVERY QUESTIONNAIRE
+Class-Only ID: K7M4Q
+Grade: 6
+Period: 3
+Questionnaire version: IACA-PD-2.0
+Schema version: 2.0
+Exported at (UTC): 2026-09-23T21:16:08.953Z
+Status: COMPLETE
+Privacy: Pseudonymous. Written responses require teacher review before AI use.
+
+=== A — WHAT CATCHES YOUR ATTENTION? ===
+Question [phenomena]: Which questions would you most like to explore?
+> Why do hurricanes sometimes strengthen quickly?; How do satellites show changes on Earth?
+
+=== B — WHERE WOULD YOU EXPLORE? ===
+Question [environments]: Where would you spend a day investigating?
+> A river
+
+=== C — THINGS YOU ALREADY LIKE ===
+Question [interests]: What do you already enjoy?
+> Gaming; Maps; Weather; Photography / video
+
+Question [interest-focus]: Which part of your interests might you like to look at more closely?
+> How maps help people find places and patterns
+
+Question [interest-detail]: Pick one thing you enjoy. What part keeps your attention?
+> Game maps show patterns. I like predicting where a storm will go.
+
+=== D — THINGS YOU HAVE NOTICED ===
+Question [experiences]: Which have you tried or watched?
+> [Not answered — optional]
+
+Question [noticed]: What have you noticed that seems strange, surprising, or hard to explain?
+> Puddles dry differently: shade & sun. <b>not HTML</b> 🌧️
+> Why?
+
+=== E — YOUR KIND OF MYSTERY ===
+Question [mysteries]: Which kinds of figuring things out sound satisfying?
+> Discovering a hidden pattern
+
+=== F — HOW WOULD YOU INVESTIGATE? ===
+Question [methods]: How interested are you in trying these methods?
+> Testing an idea with an experiment: Excited to try
+> Making repeated observations: Excited to try
+> Taking measurements: Excited to try
+> Photographing changes: Excited to try
+> Graphing data: Excited to try
+> Analyzing an existing dataset: Not rated
+> Building something: Not rated
+> Making a physical model: Not rated
+> Making a digital model: Not rated
+> Mapping something: Not rated
+> Researching reliable sources: Not rated
+> Comparing examples: Not rated
+> Watching change over months: Not rated
+> Testing and improving designs: Not rated
+> Observing outdoors: Not rated
+> Using simulations: Not rated
+> Explaining a complicated idea: Not rated
+> Creating diagrams: Not rated
+> Keeping a science journal: Not rated
+
+=== G — PROBLEMS WORTH UNDERSTANDING ===
+Question [problems]: Which problems would you like to understand better?
+> Flooding
+
+=== H — RESOURCES YOU COULD USE ===
+Question [resources]: Which resources could you comfortably use?
+> Resources available at school — my preferred option
+
+=== I — A PROJECT THAT CAN KEEP GROWING ===
+Question [sustain]: What could you keep doing for several months?
+> Analyze new data each week
+
+Question [routine]: What kind of weekly work would suit you?
+> [Not answered — optional]
+
+Question [keep-going]: What would make you want to keep coming back to a project?
+> [Not answered — optional]
+
+=== J — YOUR OWN QUESTIONS ===
+Question [wonder]: What is something about nature, Earth, space, or living things that you wonder about?
+> Why does rain fall unevenly across a town?
+
+Question [scientist-question]: If a scientist could answer one question for you, what would you ask?
+> How can we predict sudden changes in a storm?
+
+Question [improve]: Is there something you would like to understand, predict, explain, or improve?
+> [Not answered — optional]
+
+=== K — YOUR CONSULTANT PROFILE ===
+Question [skills]: How do these consultant skills feel right now?
+> Finding information: Comfortable
+> Summarizing information: Comfortable
+> Explaining difficult ideas: Comfortable
+> Writing: Comfortable
+> Drawing diagrams: Comfortable
+> Visual design: Comfortable
+> Graphing: Comfortable
+> Working with numbers: Comfortable
+> Spotting patterns: Comfortable
+> Building: Comfortable
+> Experimenting: Comfortable
+> Technology: Comfortable
+> Organization: Comfortable
+> Troubleshooting: Comfortable
+> Generating ideas: Comfortable
+> Asking good questions: Comfortable
+> Presenting: Comfortable
+> Noticing details: Comfortable
+> Checking evidence: Comfortable
+> Improving someone else’s idea: Comfortable
+> Giving useful feedback: Comfortable
+
+Question [consultant-jobs]: Which THREE consultant jobs would you most enjoy?
+> Graphing; Technology; Visual design
+
+Question [growth]: Which TWO OR THREE skills would you like to improve?
+> Checking evidence; Working with numbers
+
+=== HIDDEN TAGS — TEACHER USE ===
+consultant-interest:graphing
+consultant-interest:technology
+consultant-interest:visual-design
+consultant-strength:asking-good-questions
+consultant-strength:building
+consultant-strength:checking-evidence
+consultant-strength:drawing-diagrams
+consultant-strength:experimenting
+consultant-strength:explaining-difficult-ideas
+consultant-strength:finding-information
+consultant-strength:generating-ideas
+consultant-strength:giving-useful-feedback
+consultant-strength:graphing
+consultant-strength:improving-someone-else-s-idea
+consultant-strength:noticing-details
+consultant-strength:organization
+consultant-strength:presenting
+consultant-strength:spotting-patterns
+consultant-strength:summarizing-information
+consultant-strength:technology
+consultant-strength:troubleshooting
+consultant-strength:visual-design
+consultant-strength:working-with-numbers
+consultant-strength:writing
+domain:earth-systems
+domain:gis-mapping
+domain:hydrology
+domain:meteorology
+domain:natural-hazards
+domain:remote-sensing
+environment:a-river
+growth:checking-evidence
+growth:working-with-numbers
+interest-focus:how-maps-help-people-find-places-and-patterns
+interest:gaming
+interest:maps
+interest:photography-video
+interest:weather
+method:experiment
+method:graphing
+method:measurement
+method:pattern-analysis
+method:photography
+method:repeated-observation
+phenomenon:how-do-satellites-show-changes-on-earth
+phenomenon:why-do-hurricanes-sometimes-strengthen-quickly
+problem:flooding
+project-format:data-series
+resource:resources-available-at-school-my-preferred-option
+skill-level:comfortable:asking-good-questions
+skill-level:comfortable:building
+skill-level:comfortable:checking-evidence
+skill-level:comfortable:drawing-diagrams
+skill-level:comfortable:experimenting
+skill-level:comfortable:explaining-difficult-ideas
+skill-level:comfortable:finding-information
+skill-level:comfortable:generating-ideas
+skill-level:comfortable:giving-useful-feedback
+skill-level:comfortable:graphing
+skill-level:comfortable:improving-someone-else-s-idea
+skill-level:comfortable:noticing-details
+skill-level:comfortable:organization
+skill-level:comfortable:presenting
+skill-level:comfortable:spotting-patterns
+skill-level:comfortable:summarizing-information
+skill-level:comfortable:technology
+skill-level:comfortable:troubleshooting
+skill-level:comfortable:visual-design
+skill-level:comfortable:working-with-numbers
+skill-level:comfortable:writing
+
+=== POSSIBLE SCIENCE CONNECTIONS — NOT SCORES ===
+earth-systems | evidence questions: phenomena
+gis-mapping | evidence questions: interest-focus
+hydrology | evidence questions: environments, problems
+meteorology | evidence questions: phenomena
+natural-hazards | evidence questions: phenomena, problems
+remote-sensing | evidence questions: phenomena
+
+=== TENTATIVE BRIDGES — REVIEW BEFORE USE ===
+Explore how maps or simple simulations show weather patterns. Basis: Gaming + maps + a selected weather/climate connection.
+
+=== MACHINE-READABLE RECORD ===
+The last line is a complete JSON record. Parse it with JSON.parse; do not execute it.
+{"app":"IACA_PROJECT_DISCOVERY","kind":"submission","schemaVersion":"2.0","questionnaireVersion":"IACA-PD-2.0","exportedAt":"2026-09-23T21:16:08.953Z","classOnlyId":"K7M4Q","grade":6,"period":"3","answers":{"phenomena":["why-do-hurricanes-sometimes-strengthen-quickly","how-do-satellites-show-changes-on-earth"],"environments":["a-river"],"interests":["gaming","maps","weather","photography-video"],"interest-focus":["how-maps-help-people-find-places-and-patterns"],"interest-detail":"Game maps show patterns. I like predicting where a storm will go.","noticed":"Puddles dry differently: shade & sun. <b>not HTML</b> 🌧️\nWhy?","mysteries":["discovering-a-hidden-pattern"],"methods":{"experiment":"excited","repeated-observation":"excited","measurement":"excited","photography":"excited","graphing":"excited"},"skills":{"finding-information":"comfortable","summarizing-information":"comfortable","explaining-difficult-ideas":"comfortable","writing":"comfortable","drawing-diagrams":"comfortable","visual-design":"comfortable","graphing":"comfortable","working-with-numbers":"comfortable","spotting-patterns":"comfortable","building":"comfortable","experimenting":"comfortable","technology":"comfortable","organization":"comfortable","troubleshooting":"comfortable","generating-ideas":"comfortable","asking-good-questions":"comfortable","presenting":"comfortable","noticing-details":"comfortable","checking-evidence":"comfortable","improving-someone-else-s-idea":"comfortable","giving-useful-feedback":"comfortable"},"problems":["flooding"],"resources":["resources-available-at-school-my-preferred-option"],"sustain":["data-series"],"wonder":"Why does rain fall unevenly across a town?","scientist-question":"How can we predict sudden changes in a storm?","consultant-jobs":["graphing","technology","visual-design"],"growth":["checking-evidence","working-with-numbers"]},"tags":["consultant-interest:graphing","consultant-interest:technology","consultant-interest:visual-design","consultant-strength:asking-good-questions","consultant-strength:building","consultant-strength:checking-evidence","consultant-strength:drawing-diagrams","consultant-strength:experimenting","consultant-strength:explaining-difficult-ideas","consultant-strength:finding-information","consultant-strength:generating-ideas","consultant-strength:giving-useful-feedback","consultant-strength:graphing","consultant-strength:improving-someone-else-s-idea","consultant-strength:noticing-details","consultant-strength:organization","consultant-strength:presenting","consultant-strength:spotting-patterns","consultant-strength:summarizing-information","consultant-strength:technology","consultant-strength:troubleshooting","consultant-strength:visual-design","consultant-strength:working-with-numbers","consultant-strength:writing","domain:earth-systems","domain:gis-mapping","domain:hydrology","domain:meteorology","domain:natural-hazards","domain:remote-sensing","environment:a-river","growth:checking-evidence","growth:working-with-numbers","interest-focus:how-maps-help-people-find-places-and-patterns","interest:gaming","interest:maps","interest:photography-video","interest:weather","method:experiment","method:graphing","method:measurement","method:pattern-analysis","method:photography","method:repeated-observation","phenomenon:how-do-satellites-show-changes-on-earth","phenomenon:why-do-hurricanes-sometimes-strengthen-quickly","problem:flooding","project-format:data-series","resource:resources-available-at-school-my-preferred-option","skill-level:comfortable:asking-good-questions","skill-level:comfortable:building","skill-level:comfortable:checking-evidence","skill-level:comfortable:drawing-diagrams","skill-level:comfortable:experimenting","skill-level:comfortable:explaining-difficult-ideas","skill-level:comfortable:finding-information","skill-level:comfortable:generating-ideas","skill-level:comfortable:giving-useful-feedback","skill-level:comfortable:graphing","skill-level:comfortable:improving-someone-else-s-idea","skill-level:comfortable:noticing-details","skill-level:comfortable:organization","skill-level:comfortable:presenting","skill-level:comfortable:spotting-patterns","skill-level:comfortable:summarizing-information","skill-level:comfortable:technology","skill-level:comfortable:troubleshooting","skill-level:comfortable:visual-design","skill-level:comfortable:working-with-numbers","skill-level:comfortable:writing"],"domainConnections":[{"domain":"earth-systems","supportingQuestionIds":["phenomena"],"basis":"Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."},{"domain":"gis-mapping","supportingQuestionIds":["interest-focus"],"basis":"Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."},{"domain":"hydrology","supportingQuestionIds":["environments","problems"],"basis":"Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."},{"domain":"meteorology","supportingQuestionIds":["phenomena"],"basis":"Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."},{"domain":"natural-hazards","supportingQuestionIds":["phenomena","problems"],"basis":"Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."},{"domain":"remote-sensing","supportingQuestionIds":["phenomena"],"basis":"Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."}],"tagEvidence":{"phenomenon:why-do-hurricanes-sometimes-strengthen-quickly":[{"question":"phenomena","choice":"Why do hurricanes sometimes strengthen quickly?"}],"domain:meteorology":[{"question":"phenomena","choice":"Why do hurricanes sometimes strengthen quickly?"}],"domain:natural-hazards":[{"question":"phenomena","choice":"Why do hurricanes sometimes strengthen quickly?"},{"question":"problems","choice":"Flooding"}],"phenomenon:how-do-satellites-show-changes-on-earth":[{"question":"phenomena","choice":"How do satellites show changes on Earth?"}],"domain:remote-sensing":[{"question":"phenomena","choice":"How do satellites show changes on Earth?"}],"domain:earth-systems":[{"question":"phenomena","choice":"How do satellites show changes on Earth?"}],"environment:a-river":[{"question":"environments","choice":"A river"}],"domain:hydrology":[{"question":"environments","choice":"A river"},{"question":"problems","choice":"Flooding"}],"interest:gaming":[{"question":"interests","choice":"Gaming"}],"interest:maps":[{"question":"interests","choice":"Maps"}],"interest:weather":[{"question":"interests","choice":"Weather"}],"interest:photography-video":[{"question":"interests","choice":"Photography / video"}],"interest-focus:how-maps-help-people-find-places-and-patterns":[{"question":"interest-focus","choice":"How maps help people find places and patterns"}],"domain:gis-mapping":[{"question":"interest-focus","choice":"How maps help people find places and patterns"}],"method:pattern-analysis":[{"question":"mysteries","choice":"Discovering a hidden pattern"}],"method:experiment":[{"question":"methods","choice":"Testing an idea with an experiment — excited"}],"method:repeated-observation":[{"question":"methods","choice":"Making repeated observations — excited"}],"method:measurement":[{"question":"methods","choice":"Taking measurements — excited"}],"method:photography":[{"question":"methods","choice":"Photographing changes — excited"}],"method:graphing":[{"question":"methods","choice":"Graphing data — excited"}],"problem:flooding":[{"question":"problems","choice":"Flooding"}],"resource:resources-available-at-school-my-preferred-option":[{"question":"resources","choice":"Resources available at school — my preferred option"}],"project-format:data-series":[{"question":"sustain","choice":"Analyze new data each week"}],"skill-level:comfortable:finding-information":[{"question":"skills","choice":"Finding information — comfortable"}],"consultant-strength:finding-information":[{"question":"skills","choice":"Finding information — comfortable"}],"skill-level:comfortable:summarizing-information":[{"question":"skills","choice":"Summarizing information — comfortable"}],"consultant-strength:summarizing-information":[{"question":"skills","choice":"Summarizing information — comfortable"}],"skill-level:comfortable:explaining-difficult-ideas":[{"question":"skills","choice":"Explaining difficult ideas — comfortable"}],"consultant-strength:explaining-difficult-ideas":[{"question":"skills","choice":"Explaining difficult ideas — comfortable"}],"skill-level:comfortable:writing":[{"question":"skills","choice":"Writing — comfortable"}],"consultant-strength:writing":[{"question":"skills","choice":"Writing — comfortable"}],"skill-level:comfortable:drawing-diagrams":[{"question":"skills","choice":"Drawing diagrams — comfortable"}],"consultant-strength:drawing-diagrams":[{"question":"skills","choice":"Drawing diagrams — comfortable"}],"skill-level:comfortable:visual-design":[{"question":"skills","choice":"Visual design — comfortable"}],"consultant-strength:visual-design":[{"question":"skills","choice":"Visual design — comfortable"}],"skill-level:comfortable:graphing":[{"question":"skills","choice":"Graphing — comfortable"}],"consultant-strength:graphing":[{"question":"skills","choice":"Graphing — comfortable"}],"skill-level:comfortable:working-with-numbers":[{"question":"skills","choice":"Working with numbers — comfortable"}],"consultant-strength:working-with-numbers":[{"question":"skills","choice":"Working with numbers — comfortable"}],"skill-level:comfortable:spotting-patterns":[{"question":"skills","choice":"Spotting patterns — comfortable"}],"consultant-strength:spotting-patterns":[{"question":"skills","choice":"Spotting patterns — comfortable"}],"skill-level:comfortable:building":[{"question":"skills","choice":"Building — comfortable"}],"consultant-strength:building":[{"question":"skills","choice":"Building — comfortable"}],"skill-level:comfortable:experimenting":[{"question":"skills","choice":"Experimenting — comfortable"}],"consultant-strength:experimenting":[{"question":"skills","choice":"Experimenting — comfortable"}],"skill-level:comfortable:technology":[{"question":"skills","choice":"Technology — comfortable"}],"consultant-strength:technology":[{"question":"skills","choice":"Technology — comfortable"}],"skill-level:comfortable:organization":[{"question":"skills","choice":"Organization — comfortable"}],"consultant-strength:organization":[{"question":"skills","choice":"Organization — comfortable"}],"skill-level:comfortable:troubleshooting":[{"question":"skills","choice":"Troubleshooting — comfortable"}],"consultant-strength:troubleshooting":[{"question":"skills","choice":"Troubleshooting — comfortable"}],"skill-level:comfortable:generating-ideas":[{"question":"skills","choice":"Generating ideas — comfortable"}],"consultant-strength:generating-ideas":[{"question":"skills","choice":"Generating ideas — comfortable"}],"skill-level:comfortable:asking-good-questions":[{"question":"skills","choice":"Asking good questions — comfortable"}],"consultant-strength:asking-good-questions":[{"question":"skills","choice":"Asking good questions — comfortable"}],"skill-level:comfortable:presenting":[{"question":"skills","choice":"Presenting — comfortable"}],"consultant-strength:presenting":[{"question":"skills","choice":"Presenting — comfortable"}],"skill-level:comfortable:noticing-details":[{"question":"skills","choice":"Noticing details — comfortable"}],"consultant-strength:noticing-details":[{"question":"skills","choice":"Noticing details — comfortable"}],"skill-level:comfortable:checking-evidence":[{"question":"skills","choice":"Checking evidence — comfortable"}],"consultant-strength:checking-evidence":[{"question":"skills","choice":"Checking evidence — comfortable"}],"skill-level:comfortable:improving-someone-else-s-idea":[{"question":"skills","choice":"Improving someone else’s idea — comfortable"}],"consultant-strength:improving-someone-else-s-idea":[{"question":"skills","choice":"Improving someone else’s idea — comfortable"}],"skill-level:comfortable:giving-useful-feedback":[{"question":"skills","choice":"Giving useful feedback — comfortable"}],"consultant-strength:giving-useful-feedback":[{"question":"skills","choice":"Giving useful feedback — comfortable"}],"consultant-interest:graphing":[{"question":"consultant-jobs","choice":"Graphing"}],"consultant-interest:technology":[{"question":"consultant-jobs","choice":"Technology"}],"consultant-interest:visual-design":[{"question":"consultant-jobs","choice":"Visual design"}],"growth:checking-evidence":[{"question":"growth","choice":"Checking evidence"}],"growth:working-with-numbers":[{"question":"growth","choice":"Working with numbers"}]},"tentativeBridges":[{"domains":["gis-mapping","meteorology"],"idea":"Explore how maps or simple simulations show weather patterns.","basis":"Gaming + maps + a selected weather/climate connection.","status":"teacher-review-hypothesis"}],"openResponseInterpretation":"Not inferred automatically. Teacher review required before AI use.","freeTextReviewStatus":"TEACHER_REVIEW_REQUIRED","directIdentifierCheck":"Student confirmed ID and reviewed for personal details; not a guarantee of de-identification."}

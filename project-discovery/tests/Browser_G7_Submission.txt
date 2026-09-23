@@ -1,0 +1,180 @@
+PROJECT DISCOVERY QUESTIONNAIRE
+Class-Only ID: P8R2X
+Grade: 7
+Period: 2
+Questionnaire version: IACA-PD-2.0
+Schema version: 2.0
+Exported at (UTC): 2026-09-23T21:23:21.757Z
+Status: COMPLETE
+Privacy: Pseudonymous. Written responses require teacher review before AI use.
+
+=== A — WHAT CATCHES YOUR ATTENTION? ===
+Question [phenomena]: Which questions would you most like to explore?
+> How does yeast help bread rise?
+
+=== B — WHERE WOULD YOU EXPLORE? ===
+Question [environments]: Where would you spend a day investigating?
+> None of these / not sure yet
+
+=== C — THINGS YOU ALREADY LIKE ===
+Question [interests]: What do you already enjoy?
+> Drawing / art; Cooking / baking
+
+Question [interest-focus]: Which part of your interests might you like to look at more closely?
+> [Not answered — optional]
+
+Question [interest-detail]: Pick one thing you enjoy. What part keeps your attention?
+> Baking & drawing: why does dough rise? 🥖
+
+=== D — THINGS YOU HAVE NOTICED ===
+Question [experiences]: Which have you tried or watched?
+> [Not answered — optional]
+
+Question [noticed]: What have you noticed that seems strange, surprising, or hard to explain?
+> Dough gets taller over time. Why does its texture change?
+
+=== E — YOUR KIND OF MYSTERY ===
+Question [mysteries]: Which kinds of figuring things out sound satisfying?
+> None of these / not sure yet
+
+=== F — HOW WOULD YOU INVESTIGATE? ===
+Question [methods]: How interested are you in trying these methods?
+> Testing an idea with an experiment: Not sure yet
+> Making repeated observations: Not sure yet
+> Taking measurements: Not sure yet
+> Photographing changes: Not sure yet
+> Graphing data: Not sure yet
+> Analyzing an existing dataset: Not rated
+> Building something: Not rated
+> Making a physical model: Not rated
+> Making a digital model: Not rated
+> Mapping something: Not rated
+> Researching reliable sources: Not rated
+> Comparing examples: Not rated
+> Watching change over months: Not rated
+> Testing and improving designs: Not rated
+> Observing outdoors: Not rated
+> Using simulations: Not rated
+> Explaining a complicated idea: Not rated
+> Creating diagrams: Not rated
+> Keeping a science journal: Not rated
+
+=== G — PROBLEMS WORTH UNDERSTANDING ===
+Question [problems]: Which problems would you like to understand better?
+> None of these / not sure yet
+
+=== H — RESOURCES YOU COULD USE ===
+Question [resources]: Which resources could you comfortably use?
+> Resources available at school — my preferred option
+
+=== I — A PROJECT THAT CAN KEEP GROWING ===
+Question [sustain]: What could you keep doing for several months?
+> None of these / not sure yet
+
+Question [routine]: What kind of weekly work would suit you?
+> [Not answered — optional]
+
+Question [keep-going]: What would make you want to keep coming back to a project?
+> [Not answered — optional]
+
+=== J — YOUR OWN QUESTIONS ===
+Question [wonder]: What is something about nature, Earth, space, or living things that you wonder about?
+> I don’t know yet.
+
+Question [scientist-question]: If a scientist could answer one question for you, what would you ask?
+> How does yeast change food?
+
+Question [improve]: Is there something you would like to understand, predict, explain, or improve?
+> [Not answered — optional]
+
+=== K — YOUR CONSULTANT PROFILE ===
+Question [skills]: How do these consultant skills feel right now?
+> Finding information: Want to learn
+> Summarizing information: Want to learn
+> Explaining difficult ideas: Want to learn
+> Writing: Want to learn
+> Drawing diagrams: Want to learn
+> Visual design: Want to learn
+> Graphing: Want to learn
+> Working with numbers: Want to learn
+> Spotting patterns: Want to learn
+> Building: Want to learn
+> Experimenting: Want to learn
+> Technology: Want to learn
+> Organization: Want to learn
+> Troubleshooting: Want to learn
+> Generating ideas: Want to learn
+> Asking good questions: Want to learn
+> Presenting: Want to learn
+> Noticing details: Want to learn
+> Checking evidence: Want to learn
+> Improving someone else’s idea: Want to learn
+> Giving useful feedback: Want to learn
+
+Question [consultant-jobs]: Which THREE consultant jobs would you most enjoy?
+> None of these / not sure yet
+
+Question [growth]: Which TWO OR THREE skills would you like to improve?
+> None of these / not sure yet
+
+=== HIDDEN TAGS — TEACHER USE ===
+domain:microbiology
+domain:molecular-biology
+growth:asking-good-questions
+growth:building
+growth:checking-evidence
+growth:drawing-diagrams
+growth:experimenting
+growth:explaining-difficult-ideas
+growth:finding-information
+growth:generating-ideas
+growth:giving-useful-feedback
+growth:graphing
+growth:improving-someone-else-s-idea
+growth:noticing-details
+growth:organization
+growth:presenting
+growth:spotting-patterns
+growth:summarizing-information
+growth:technology
+growth:troubleshooting
+growth:visual-design
+growth:working-with-numbers
+growth:writing
+interest:cooking-baking
+interest:drawing-art
+phenomenon:how-does-yeast-help-bread-rise
+resource:resources-available-at-school-my-preferred-option
+skill-level:want-to-learn:asking-good-questions
+skill-level:want-to-learn:building
+skill-level:want-to-learn:checking-evidence
+skill-level:want-to-learn:drawing-diagrams
+skill-level:want-to-learn:experimenting
+skill-level:want-to-learn:explaining-difficult-ideas
+skill-level:want-to-learn:finding-information
+skill-level:want-to-learn:generating-ideas
+skill-level:want-to-learn:giving-useful-feedback
+skill-level:want-to-learn:graphing
+skill-level:want-to-learn:improving-someone-else-s-idea
+skill-level:want-to-learn:noticing-details
+skill-level:want-to-learn:organization
+skill-level:want-to-learn:presenting
+skill-level:want-to-learn:spotting-patterns
+skill-level:want-to-learn:summarizing-information
+skill-level:want-to-learn:technology
+skill-level:want-to-learn:troubleshooting
+skill-level:want-to-learn:visual-design
+skill-level:want-to-learn:working-with-numbers
+skill-level:want-to-learn:writing
+state:not-sure
+
+=== POSSIBLE SCIENCE CONNECTIONS — NOT SCORES ===
+microbiology | evidence questions: phenomena
+molecular-biology | evidence questions: phenomena
+
+=== TENTATIVE BRIDGES — REVIEW BEFORE USE ===
+Investigate a teacher-approved model or dataset about yeast and food. Basis: Baking interest + a selected microbiology connection; no unknown cultures.
+
+=== MACHINE-READABLE RECORD ===
+The last line is a complete JSON record. Parse it with JSON.parse; do not execute it.
+{"app":"IACA_PROJECT_DISCOVERY","kind":"submission","schemaVersion":"2.0","questionnaireVersion":"IACA-PD-2.0","exportedAt":"2026-09-23T21:23:21.757Z","classOnlyId":"P8R2X","grade":7,"period":"2","answers":{"phenomena":["how-does-yeast-help-bread-rise"],"interest-detail":"Baking & drawing: why does dough rise? 🥖","environments":["not-sure"],"mysteries":["not-sure"],"problems":["not-sure"],"sustain":["not-sure"],"consultant-jobs":["not-sure"],"growth":["not-sure"],"interests":["drawing-art","cooking-baking"],"interest-focus":[],"resources":["resources-available-at-school-my-preferred-option"],"noticed":"Dough gets taller over time. Why does its texture change?","wonder":"I don’t know yet.","scientist-question":"How does yeast change food?","methods":{"experiment":"not-sure","repeated-observation":"not-sure","measurement":"not-sure","photography":"not-sure","graphing":"not-sure"},"skills":{"finding-information":"want-to-learn","summarizing-information":"want-to-learn","explaining-difficult-ideas":"want-to-learn","writing":"want-to-learn","drawing-diagrams":"want-to-learn","visual-design":"want-to-learn","graphing":"want-to-learn","working-with-numbers":"want-to-learn","spotting-patterns":"want-to-learn","building":"want-to-learn","experimenting":"want-to-learn","technology":"want-to-learn","organization":"want-to-learn","troubleshooting":"want-to-learn","generating-ideas":"want-to-learn","asking-good-questions":"want-to-learn","presenting":"want-to-learn","noticing-details":"want-to-learn","checking-evidence":"want-to-learn","improving-someone-else-s-idea":"want-to-learn","giving-useful-feedback":"want-to-learn"},"keep-going":""},"tags":["domain:microbiology","domain:molecular-biology","growth:asking-good-questions","growth:building","growth:checking-evidence","growth:drawing-diagrams","growth:experimenting","growth:explaining-difficult-ideas","growth:finding-information","growth:generating-ideas","growth:giving-useful-feedback","growth:graphing","growth:improving-someone-else-s-idea","growth:noticing-details","growth:organization","growth:presenting","growth:spotting-patterns","growth:summarizing-information","growth:technology","growth:troubleshooting","growth:visual-design","growth:working-with-numbers","growth:writing","interest:cooking-baking","interest:drawing-art","phenomenon:how-does-yeast-help-bread-rise","resource:resources-available-at-school-my-preferred-option","skill-level:want-to-learn:asking-good-questions","skill-level:want-to-learn:building","skill-level:want-to-learn:checking-evidence","skill-level:want-to-learn:drawing-diagrams","skill-level:want-to-learn:experimenting","skill-level:want-to-learn:explaining-difficult-ideas","skill-level:want-to-learn:finding-information","skill-level:want-to-learn:generating-ideas","skill-level:want-to-learn:giving-useful-feedback","skill-level:want-to-learn:graphing","skill-level:want-to-learn:improving-someone-else-s-idea","skill-level:want-to-learn:noticing-details","skill-level:want-to-learn:organization","skill-level:want-to-learn:presenting","skill-level:want-to-learn:spotting-patterns","skill-level:want-to-learn:summarizing-information","skill-level:want-to-learn:technology","skill-level:want-to-learn:troubleshooting","skill-level:want-to-learn:visual-design","skill-level:want-to-learn:working-with-numbers","skill-level:want-to-learn:writing","state:not-sure"],"domainConnections":[{"domain":"microbiology","supportingQuestionIds":["phenomena"],"basis":"Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."},{"domain":"molecular-biology","supportingQuestionIds":["phenomena"],"basis":"Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."}],"tagEvidence":{"phenomenon:how-does-yeast-help-bread-rise":[{"question":"phenomena","choice":"How does yeast help bread rise?"}],"domain:microbiology":[{"question":"phenomena","choice":"How does yeast help bread rise?"}],"domain:molecular-biology":[{"question":"phenomena","choice":"How does yeast help bread rise?"}],"state:not-sure":[{"question":"environments","choice":"None of these / not sure yet"},{"question":"mysteries","choice":"None of these / not sure yet"},{"question":"problems","choice":"None of these / not sure yet"},{"question":"sustain","choice":"None of these / not sure yet"},{"question":"consultant-jobs","choice":"None of these / not sure yet"},{"question":"growth","choice":"None of these / not sure yet"}],"interest:drawing-art":[{"question":"interests","choice":"Drawing / art"}],"interest:cooking-baking":[{"question":"interests","choice":"Cooking / baking"}],"resource:resources-available-at-school-my-preferred-option":[{"question":"resources","choice":"Resources available at school — my preferred option"}],"skill-level:want-to-learn:finding-information":[{"question":"skills","choice":"Finding information — want-to-learn"}],"growth:finding-information":[{"question":"skills","choice":"Finding information — want-to-learn"}],"skill-level:want-to-learn:summarizing-information":[{"question":"skills","choice":"Summarizing information — want-to-learn"}],"growth:summarizing-information":[{"question":"skills","choice":"Summarizing information — want-to-learn"}],"skill-level:want-to-learn:explaining-difficult-ideas":[{"question":"skills","choice":"Explaining difficult ideas — want-to-learn"}],"growth:explaining-difficult-ideas":[{"question":"skills","choice":"Explaining difficult ideas — want-to-learn"}],"skill-level:want-to-learn:writing":[{"question":"skills","choice":"Writing — want-to-learn"}],"growth:writing":[{"question":"skills","choice":"Writing — want-to-learn"}],"skill-level:want-to-learn:drawing-diagrams":[{"question":"skills","choice":"Drawing diagrams — want-to-learn"}],"growth:drawing-diagrams":[{"question":"skills","choice":"Drawing diagrams — want-to-learn"}],"skill-level:want-to-learn:visual-design":[{"question":"skills","choice":"Visual design — want-to-learn"}],"growth:visual-design":[{"question":"skills","choice":"Visual design — want-to-learn"}],"skill-level:want-to-learn:graphing":[{"question":"skills","choice":"Graphing — want-to-learn"}],"growth:graphing":[{"question":"skills","choice":"Graphing — want-to-learn"}],"skill-level:want-to-learn:working-with-numbers":[{"question":"skills","choice":"Working with numbers — want-to-learn"}],"growth:working-with-numbers":[{"question":"skills","choice":"Working with numbers — want-to-learn"}],"skill-level:want-to-learn:spotting-patterns":[{"question":"skills","choice":"Spotting patterns — want-to-learn"}],"growth:spotting-patterns":[{"question":"skills","choice":"Spotting patterns — want-to-learn"}],"skill-level:want-to-learn:building":[{"question":"skills","choice":"Building — want-to-learn"}],"growth:building":[{"question":"skills","choice":"Building — want-to-learn"}],"skill-level:want-to-learn:experimenting":[{"question":"skills","choice":"Experimenting — want-to-learn"}],"growth:experimenting":[{"question":"skills","choice":"Experimenting — want-to-learn"}],"skill-level:want-to-learn:technology":[{"question":"skills","choice":"Technology — want-to-learn"}],"growth:technology":[{"question":"skills","choice":"Technology — want-to-learn"}],"skill-level:want-to-learn:organization":[{"question":"skills","choice":"Organization — want-to-learn"}],"growth:organization":[{"question":"skills","choice":"Organization — want-to-learn"}],"skill-level:want-to-learn:troubleshooting":[{"question":"skills","choice":"Troubleshooting — want-to-learn"}],"growth:troubleshooting":[{"question":"skills","choice":"Troubleshooting — want-to-learn"}],"skill-level:want-to-learn:generating-ideas":[{"question":"skills","choice":"Generating ideas — want-to-learn"}],"growth:generating-ideas":[{"question":"skills","choice":"Generating ideas — want-to-learn"}],"skill-level:want-to-learn:asking-good-questions":[{"question":"skills","choice":"Asking good questions — want-to-learn"}],"growth:asking-good-questions":[{"question":"skills","choice":"Asking good questions — want-to-learn"}],"skill-level:want-to-learn:presenting":[{"question":"skills","choice":"Presenting — want-to-learn"}],"growth:presenting":[{"question":"skills","choice":"Presenting — want-to-learn"}],"skill-level:want-to-learn:noticing-details":[{"question":"skills","choice":"Noticing details — want-to-learn"}],"growth:noticing-details":[{"question":"skills","choice":"Noticing details — want-to-learn"}],"skill-level:want-to-learn:checking-evidence":[{"question":"skills","choice":"Checking evidence — want-to-learn"}],"growth:checking-evidence":[{"question":"skills","choice":"Checking evidence — want-to-learn"}],"skill-level:want-to-learn:improving-someone-else-s-idea":[{"question":"skills","choice":"Improving someone else’s idea — want-to-learn"}],"growth:improving-someone-else-s-idea":[{"question":"skills","choice":"Improving someone else’s idea — want-to-learn"}],"skill-level:want-to-learn:giving-useful-feedback":[{"question":"skills","choice":"Giving useful feedback — want-to-learn"}],"growth:giving-useful-feedback":[{"question":"skills","choice":"Giving useful feedback — want-to-learn"}]},"tentativeBridges":[{"domains":["microbiology"],"idea":"Investigate a teacher-approved model or dataset about yeast and food.","basis":"Baking interest + a selected microbiology connection; no unknown cultures.","status":"teacher-review-hypothesis"}],"openResponseInterpretation":"Not inferred automatically. Teacher review required before AI use.","freeTextReviewStatus":"TEACHER_REVIEW_REQUIRED","directIdentifierCheck":"Student confirmed ID and reviewed for personal details; not a guarantee of de-identification."}

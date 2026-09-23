@@ -1,0 +1,83 @@
+{
+  "app": "IACA_PROJECT_DISCOVERY",
+  "kind": "draft",
+  "schemaVersion": "2.0",
+  "questionnaireVersion": "IACA-PD-2.0",
+  "exportedAt": "2026-09-23T21:11:30.903Z",
+  "classOnlyId": "K7M4Q",
+  "grade": 6,
+  "period": "3",
+  "answers": {
+    "phenomena": [
+      "why-do-hurricanes-sometimes-strengthen-quickly",
+      "how-do-satellites-show-changes-on-earth"
+    ],
+    "environments": [
+      "a-river"
+    ],
+    "interests": [
+      "gaming",
+      "maps",
+      "weather",
+      "photography-video"
+    ],
+    "interest-focus": [
+      "how-maps-help-people-find-places-and-patterns"
+    ],
+    "interest-detail": "Game maps show patterns. I like predicting where a storm will go.",
+    "noticed": "Puddles dry differently: shade & sun. <b>not HTML</b> 🌧️\nWhy?",
+    "mysteries": [
+      "discovering-a-hidden-pattern"
+    ],
+    "methods": {
+      "experiment": "excited",
+      "repeated-observation": "excited",
+      "measurement": "excited",
+      "photography": "excited",
+      "graphing": "excited"
+    },
+    "skills": {
+      "finding-information": "comfortable",
+      "summarizing-information": "comfortable",
+      "explaining-difficult-ideas": "comfortable",
+      "writing": "comfortable",
+      "drawing-diagrams": "comfortable",
+      "visual-design": "comfortable",
+      "graphing": "comfortable",
+      "working-with-numbers": "comfortable",
+      "spotting-patterns": "comfortable",
+      "building": "comfortable",
+      "experimenting": "comfortable",
+      "technology": "comfortable",
+      "organization": "comfortable",
+      "troubleshooting": "comfortable",
+      "generating-ideas": "comfortable",
+      "asking-good-questions": "comfortable",
+      "presenting": "comfortable",
+      "noticing-details": "comfortable",
+      "checking-evidence": "comfortable",
+      "improving-someone-else-s-idea": "comfortable",
+      "giving-useful-feedback": "comfortable"
+    },
+    "problems": [
+      "flooding"
+    ],
+    "resources": [
+      "resources-available-at-school-my-preferred-option"
+    ],
+    "sustain": [
+      "data-series"
+    ],
+    "wonder": "Why does rain fall unevenly across a town?",
+    "scientist-question": "How can we predict sudden changes in a storm?",
+    "consultant-jobs": [
+      "graphing",
+      "technology",
+      "visual-design"
+    ],
+    "growth": [
+      "checking-evidence",
+      "working-with-numbers"
+    ]
+  }
+}

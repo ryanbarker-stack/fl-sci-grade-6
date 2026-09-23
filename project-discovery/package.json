@@ -1,0 +1,1 @@
+{"name":"iaca-project-discovery","private":true,"version":"2.0.0","scripts":{"dev":"node tests/preview.cjs","test":"node tests/unit.cjs"},"description":"Optional developer QA commands only. GitHub Pages and students need no npm or build step."}

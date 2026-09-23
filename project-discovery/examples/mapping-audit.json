@@ -1,0 +1,2713 @@
+[
+  {
+    "classOnlyId": "K7M4Q",
+    "grade": 6,
+    "fictional": true,
+    "case": "Gaming + maps + storms",
+    "answers": {
+      "phenomena": [
+        "why-do-hurricanes-sometimes-strengthen-quickly",
+        "how-do-satellites-show-changes-on-earth"
+      ],
+      "environments": [
+        "a-city-during-a-storm-through-data"
+      ],
+      "interests": [
+        "gaming",
+        "maps",
+        "weather",
+        "photography-video"
+      ],
+      "interest-detail": "I like seeing patterns on game maps and weather maps.",
+      "noticed": "I don’t know yet.",
+      "mysteries": [
+        "not-sure"
+      ],
+      "methods": {
+        "comparison": "excited",
+        "source-research": "open",
+        "physical-model": "open",
+        "mapping": "open",
+        "documentation": "open"
+      },
+      "problems": [
+        "flooding"
+      ],
+      "resources": [
+        "resources-available-at-school-my-preferred-option"
+      ],
+      "sustain": [
+        "school-based",
+        "adaptive-methods"
+      ],
+      "wonder": "I don’t know yet.",
+      "scientist-question": "I don’t know yet.",
+      "skills": {
+        "finding-information": "learning",
+        "summarizing-information": "learning",
+        "explaining-difficult-ideas": "learning",
+        "writing": "learning",
+        "drawing-diagrams": "comfortable",
+        "visual-design": "learning",
+        "graphing": "want-to-learn",
+        "working-with-numbers": "learning",
+        "spotting-patterns": "strong",
+        "building": "learning",
+        "experimenting": "learning",
+        "technology": "learning",
+        "organization": "learning",
+        "troubleshooting": "learning",
+        "generating-ideas": "learning",
+        "asking-good-questions": "learning",
+        "presenting": "learning",
+        "noticing-details": "learning",
+        "checking-evidence": "learning",
+        "improving-someone-else-s-idea": "learning",
+        "giving-useful-feedback": "learning"
+      },
+      "consultant-jobs": [
+        "spotting-patterns",
+        "drawing-diagrams",
+        "asking-good-questions"
+      ],
+      "growth": [
+        "graphing",
+        "checking-evidence"
+      ],
+      "interest-focus": [
+        "how-maps-help-people-find-places-and-patterns"
+      ]
+    },
+    "tags": [
+      "consultant-interest:asking-good-questions",
+      "consultant-interest:drawing-diagrams",
+      "consultant-interest:spotting-patterns",
+      "consultant-strength:drawing-diagrams",
+      "consultant-strength:spotting-patterns",
+      "domain:earth-systems",
+      "domain:gis-mapping",
+      "domain:hydrology",
+      "domain:meteorology",
+      "domain:natural-hazards",
+      "domain:remote-sensing",
+      "environment:a-city-during-a-storm-through-data",
+      "growth:checking-evidence",
+      "growth:graphing",
+      "interest-focus:how-maps-help-people-find-places-and-patterns",
+      "interest:gaming",
+      "interest:maps",
+      "interest:photography-video",
+      "interest:weather",
+      "method:comparison",
+      "method:documentation",
+      "method:mapping",
+      "method:physical-model",
+      "method:source-research",
+      "phenomenon:how-do-satellites-show-changes-on-earth",
+      "phenomenon:why-do-hurricanes-sometimes-strengthen-quickly",
+      "problem:flooding",
+      "project-format:adaptive-methods",
+      "project-format:school-based",
+      "resource:resources-available-at-school-my-preferred-option",
+      "skill-level:comfortable:drawing-diagrams",
+      "skill-level:learning:asking-good-questions",
+      "skill-level:learning:building",
+      "skill-level:learning:checking-evidence",
+      "skill-level:learning:experimenting",
+      "skill-level:learning:explaining-difficult-ideas",
+      "skill-level:learning:finding-information",
+      "skill-level:learning:generating-ideas",
+      "skill-level:learning:giving-useful-feedback",
+      "skill-level:learning:improving-someone-else-s-idea",
+      "skill-level:learning:noticing-details",
+      "skill-level:learning:organization",
+      "skill-level:learning:presenting",
+      "skill-level:learning:summarizing-information",
+      "skill-level:learning:technology",
+      "skill-level:learning:troubleshooting",
+      "skill-level:learning:visual-design",
+      "skill-level:learning:working-with-numbers",
+      "skill-level:learning:writing",
+      "skill-level:strong:spotting-patterns",
+      "skill-level:want-to-learn:graphing",
+      "state:not-sure"
+    ],
+    "domainConnections": [
+      {
+        "domain": "earth-systems",
+        "supportingQuestionIds": [
+          "phenomena"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "gis-mapping",
+        "supportingQuestionIds": [
+          "interest-focus"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "hydrology",
+        "supportingQuestionIds": [
+          "problems"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "meteorology",
+        "supportingQuestionIds": [
+          "phenomena",
+          "environments"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "natural-hazards",
+        "supportingQuestionIds": [
+          "phenomena",
+          "environments",
+          "problems"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "remote-sensing",
+        "supportingQuestionIds": [
+          "phenomena"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      }
+    ],
+    "tagEvidence": {
+      "phenomenon:why-do-hurricanes-sometimes-strengthen-quickly": [
+        {
+          "question": "phenomena",
+          "choice": "Why do hurricanes sometimes strengthen quickly?"
+        }
+      ],
+      "domain:meteorology": [
+        {
+          "question": "phenomena",
+          "choice": "Why do hurricanes sometimes strengthen quickly?"
+        },
+        {
+          "question": "environments",
+          "choice": "A city during a storm, through data"
+        }
+      ],
+      "domain:natural-hazards": [
+        {
+          "question": "phenomena",
+          "choice": "Why do hurricanes sometimes strengthen quickly?"
+        },
+        {
+          "question": "environments",
+          "choice": "A city during a storm, through data"
+        },
+        {
+          "question": "problems",
+          "choice": "Flooding"
+        }
+      ],
+      "phenomenon:how-do-satellites-show-changes-on-earth": [
+        {
+          "question": "phenomena",
+          "choice": "How do satellites show changes on Earth?"
+        }
+      ],
+      "domain:remote-sensing": [
+        {
+          "question": "phenomena",
+          "choice": "How do satellites show changes on Earth?"
+        }
+      ],
+      "domain:earth-systems": [
+        {
+          "question": "phenomena",
+          "choice": "How do satellites show changes on Earth?"
+        }
+      ],
+      "environment:a-city-during-a-storm-through-data": [
+        {
+          "question": "environments",
+          "choice": "A city during a storm, through data"
+        }
+      ],
+      "interest:gaming": [
+        {
+          "question": "interests",
+          "choice": "Gaming"
+        }
+      ],
+      "interest:maps": [
+        {
+          "question": "interests",
+          "choice": "Maps"
+        }
+      ],
+      "interest:weather": [
+        {
+          "question": "interests",
+          "choice": "Weather"
+        }
+      ],
+      "interest:photography-video": [
+        {
+          "question": "interests",
+          "choice": "Photography / video"
+        }
+      ],
+      "interest-focus:how-maps-help-people-find-places-and-patterns": [
+        {
+          "question": "interest-focus",
+          "choice": "How maps help people find places and patterns"
+        }
+      ],
+      "domain:gis-mapping": [
+        {
+          "question": "interest-focus",
+          "choice": "How maps help people find places and patterns"
+        }
+      ],
+      "state:not-sure": [
+        {
+          "question": "mysteries",
+          "choice": "None of these / not sure yet"
+        }
+      ],
+      "method:comparison": [
+        {
+          "question": "methods",
+          "choice": "Comparing examples — excited"
+        }
+      ],
+      "method:source-research": [
+        {
+          "question": "methods",
+          "choice": "Researching reliable sources — open"
+        }
+      ],
+      "method:physical-model": [
+        {
+          "question": "methods",
+          "choice": "Making a physical model — open"
+        }
+      ],
+      "method:mapping": [
+        {
+          "question": "methods",
+          "choice": "Mapping something — open"
+        }
+      ],
+      "method:documentation": [
+        {
+          "question": "methods",
+          "choice": "Keeping a science journal — open"
+        }
+      ],
+      "problem:flooding": [
+        {
+          "question": "problems",
+          "choice": "Flooding"
+        }
+      ],
+      "domain:hydrology": [
+        {
+          "question": "problems",
+          "choice": "Flooding"
+        }
+      ],
+      "resource:resources-available-at-school-my-preferred-option": [
+        {
+          "question": "resources",
+          "choice": "Resources available at school — my preferred option"
+        }
+      ],
+      "project-format:school-based": [
+        {
+          "question": "sustain",
+          "choice": "Do most project work at school"
+        }
+      ],
+      "project-format:adaptive-methods": [
+        {
+          "question": "sustain",
+          "choice": "Change methods as the project develops"
+        }
+      ],
+      "skill-level:learning:finding-information": [
+        {
+          "question": "skills",
+          "choice": "Finding information — learning"
+        }
+      ],
+      "skill-level:learning:summarizing-information": [
+        {
+          "question": "skills",
+          "choice": "Summarizing information — learning"
+        }
+      ],
+      "skill-level:learning:explaining-difficult-ideas": [
+        {
+          "question": "skills",
+          "choice": "Explaining difficult ideas — learning"
+        }
+      ],
+      "skill-level:learning:writing": [
+        {
+          "question": "skills",
+          "choice": "Writing — learning"
+        }
+      ],
+      "skill-level:comfortable:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "consultant-strength:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "skill-level:learning:visual-design": [
+        {
+          "question": "skills",
+          "choice": "Visual design — learning"
+        }
+      ],
+      "skill-level:want-to-learn:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        }
+      ],
+      "growth:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        },
+        {
+          "question": "growth",
+          "choice": "Graphing"
+        }
+      ],
+      "skill-level:learning:working-with-numbers": [
+        {
+          "question": "skills",
+          "choice": "Working with numbers — learning"
+        }
+      ],
+      "skill-level:strong:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "consultant-strength:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "skill-level:learning:building": [
+        {
+          "question": "skills",
+          "choice": "Building — learning"
+        }
+      ],
+      "skill-level:learning:experimenting": [
+        {
+          "question": "skills",
+          "choice": "Experimenting — learning"
+        }
+      ],
+      "skill-level:learning:technology": [
+        {
+          "question": "skills",
+          "choice": "Technology — learning"
+        }
+      ],
+      "skill-level:learning:organization": [
+        {
+          "question": "skills",
+          "choice": "Organization — learning"
+        }
+      ],
+      "skill-level:learning:troubleshooting": [
+        {
+          "question": "skills",
+          "choice": "Troubleshooting — learning"
+        }
+      ],
+      "skill-level:learning:generating-ideas": [
+        {
+          "question": "skills",
+          "choice": "Generating ideas — learning"
+        }
+      ],
+      "skill-level:learning:asking-good-questions": [
+        {
+          "question": "skills",
+          "choice": "Asking good questions — learning"
+        }
+      ],
+      "skill-level:learning:presenting": [
+        {
+          "question": "skills",
+          "choice": "Presenting — learning"
+        }
+      ],
+      "skill-level:learning:noticing-details": [
+        {
+          "question": "skills",
+          "choice": "Noticing details — learning"
+        }
+      ],
+      "skill-level:learning:checking-evidence": [
+        {
+          "question": "skills",
+          "choice": "Checking evidence — learning"
+        }
+      ],
+      "skill-level:learning:improving-someone-else-s-idea": [
+        {
+          "question": "skills",
+          "choice": "Improving someone else’s idea — learning"
+        }
+      ],
+      "skill-level:learning:giving-useful-feedback": [
+        {
+          "question": "skills",
+          "choice": "Giving useful feedback — learning"
+        }
+      ],
+      "consultant-interest:spotting-patterns": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Spotting patterns"
+        }
+      ],
+      "consultant-interest:drawing-diagrams": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Drawing diagrams"
+        }
+      ],
+      "consultant-interest:asking-good-questions": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Asking good questions"
+        }
+      ],
+      "growth:checking-evidence": [
+        {
+          "question": "growth",
+          "choice": "Checking evidence"
+        }
+      ]
+    },
+    "tentativeBridges": [
+      {
+        "domains": [
+          "gis-mapping",
+          "meteorology"
+        ],
+        "idea": "Explore how maps or simple simulations show weather patterns.",
+        "basis": "Gaming + maps + a selected weather/climate connection.",
+        "status": "teacher-review-hypothesis"
+      }
+    ],
+    "openResponseInterpretation": "Not inferred automatically. Teacher review required before AI use."
+  },
+  {
+    "classOnlyId": "T8R2V",
+    "grade": 6,
+    "fictional": true,
+    "case": "Drawing + fashion + collecting",
+    "answers": {
+      "phenomena": [
+        "why-does-florida-have-sinkholes"
+      ],
+      "environments": [
+        "a-cave"
+      ],
+      "interests": [
+        "drawing-art",
+        "fashion-sneakers-design",
+        "collecting-things"
+      ],
+      "interest-detail": "I notice textures and worn surfaces. I do not know how those connect yet.",
+      "noticed": "I don’t know yet.",
+      "mysteries": [
+        "not-sure"
+      ],
+      "methods": {
+        "comparison": "excited",
+        "source-research": "open",
+        "physical-model": "open",
+        "mapping": "open",
+        "documentation": "open"
+      },
+      "problems": [
+        "not-sure"
+      ],
+      "resources": [
+        "resources-available-at-school-my-preferred-option"
+      ],
+      "sustain": [
+        "school-based",
+        "adaptive-methods"
+      ],
+      "wonder": "I don’t know yet.",
+      "scientist-question": "I don’t know yet.",
+      "skills": {
+        "finding-information": "learning",
+        "summarizing-information": "learning",
+        "explaining-difficult-ideas": "learning",
+        "writing": "learning",
+        "drawing-diagrams": "comfortable",
+        "visual-design": "learning",
+        "graphing": "want-to-learn",
+        "working-with-numbers": "learning",
+        "spotting-patterns": "strong",
+        "building": "learning",
+        "experimenting": "learning",
+        "technology": "learning",
+        "organization": "learning",
+        "troubleshooting": "learning",
+        "generating-ideas": "learning",
+        "asking-good-questions": "learning",
+        "presenting": "learning",
+        "noticing-details": "learning",
+        "checking-evidence": "learning",
+        "improving-someone-else-s-idea": "learning",
+        "giving-useful-feedback": "learning"
+      },
+      "consultant-jobs": [
+        "spotting-patterns",
+        "drawing-diagrams",
+        "asking-good-questions"
+      ],
+      "growth": [
+        "graphing",
+        "checking-evidence"
+      ],
+      "interest-focus": [
+        "how-materials-and-surfaces-wear-or-change"
+      ]
+    },
+    "tags": [
+      "consultant-interest:asking-good-questions",
+      "consultant-interest:drawing-diagrams",
+      "consultant-interest:spotting-patterns",
+      "consultant-strength:drawing-diagrams",
+      "consultant-strength:spotting-patterns",
+      "domain:geology",
+      "domain:hydrogeology",
+      "environment:a-cave",
+      "growth:checking-evidence",
+      "growth:graphing",
+      "interest-focus:how-materials-and-surfaces-wear-or-change",
+      "interest:collecting-things",
+      "interest:drawing-art",
+      "interest:fashion-sneakers-design",
+      "method:comparison",
+      "method:documentation",
+      "method:mapping",
+      "method:physical-model",
+      "method:source-research",
+      "phenomenon:why-does-florida-have-sinkholes",
+      "project-format:adaptive-methods",
+      "project-format:school-based",
+      "resource:resources-available-at-school-my-preferred-option",
+      "skill-level:comfortable:drawing-diagrams",
+      "skill-level:learning:asking-good-questions",
+      "skill-level:learning:building",
+      "skill-level:learning:checking-evidence",
+      "skill-level:learning:experimenting",
+      "skill-level:learning:explaining-difficult-ideas",
+      "skill-level:learning:finding-information",
+      "skill-level:learning:generating-ideas",
+      "skill-level:learning:giving-useful-feedback",
+      "skill-level:learning:improving-someone-else-s-idea",
+      "skill-level:learning:noticing-details",
+      "skill-level:learning:organization",
+      "skill-level:learning:presenting",
+      "skill-level:learning:summarizing-information",
+      "skill-level:learning:technology",
+      "skill-level:learning:troubleshooting",
+      "skill-level:learning:visual-design",
+      "skill-level:learning:working-with-numbers",
+      "skill-level:learning:writing",
+      "skill-level:strong:spotting-patterns",
+      "skill-level:want-to-learn:graphing",
+      "state:not-sure"
+    ],
+    "domainConnections": [
+      {
+        "domain": "geology",
+        "supportingQuestionIds": [
+          "phenomena",
+          "environments"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "hydrogeology",
+        "supportingQuestionIds": [
+          "phenomena",
+          "environments"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      }
+    ],
+    "tagEvidence": {
+      "phenomenon:why-does-florida-have-sinkholes": [
+        {
+          "question": "phenomena",
+          "choice": "Why does Florida have sinkholes?"
+        }
+      ],
+      "domain:hydrogeology": [
+        {
+          "question": "phenomena",
+          "choice": "Why does Florida have sinkholes?"
+        },
+        {
+          "question": "environments",
+          "choice": "A cave"
+        }
+      ],
+      "domain:geology": [
+        {
+          "question": "phenomena",
+          "choice": "Why does Florida have sinkholes?"
+        },
+        {
+          "question": "environments",
+          "choice": "A cave"
+        }
+      ],
+      "environment:a-cave": [
+        {
+          "question": "environments",
+          "choice": "A cave"
+        }
+      ],
+      "interest:drawing-art": [
+        {
+          "question": "interests",
+          "choice": "Drawing / art"
+        }
+      ],
+      "interest:fashion-sneakers-design": [
+        {
+          "question": "interests",
+          "choice": "Fashion / sneakers / design"
+        }
+      ],
+      "interest:collecting-things": [
+        {
+          "question": "interests",
+          "choice": "Collecting things"
+        }
+      ],
+      "interest-focus:how-materials-and-surfaces-wear-or-change": [
+        {
+          "question": "interest-focus",
+          "choice": "How materials and surfaces wear or change"
+        }
+      ],
+      "state:not-sure": [
+        {
+          "question": "mysteries",
+          "choice": "None of these / not sure yet"
+        },
+        {
+          "question": "problems",
+          "choice": "None of these / not sure yet"
+        }
+      ],
+      "method:comparison": [
+        {
+          "question": "methods",
+          "choice": "Comparing examples — excited"
+        }
+      ],
+      "method:source-research": [
+        {
+          "question": "methods",
+          "choice": "Researching reliable sources — open"
+        }
+      ],
+      "method:physical-model": [
+        {
+          "question": "methods",
+          "choice": "Making a physical model — open"
+        }
+      ],
+      "method:mapping": [
+        {
+          "question": "methods",
+          "choice": "Mapping something — open"
+        }
+      ],
+      "method:documentation": [
+        {
+          "question": "methods",
+          "choice": "Keeping a science journal — open"
+        }
+      ],
+      "resource:resources-available-at-school-my-preferred-option": [
+        {
+          "question": "resources",
+          "choice": "Resources available at school — my preferred option"
+        }
+      ],
+      "project-format:school-based": [
+        {
+          "question": "sustain",
+          "choice": "Do most project work at school"
+        }
+      ],
+      "project-format:adaptive-methods": [
+        {
+          "question": "sustain",
+          "choice": "Change methods as the project develops"
+        }
+      ],
+      "skill-level:learning:finding-information": [
+        {
+          "question": "skills",
+          "choice": "Finding information — learning"
+        }
+      ],
+      "skill-level:learning:summarizing-information": [
+        {
+          "question": "skills",
+          "choice": "Summarizing information — learning"
+        }
+      ],
+      "skill-level:learning:explaining-difficult-ideas": [
+        {
+          "question": "skills",
+          "choice": "Explaining difficult ideas — learning"
+        }
+      ],
+      "skill-level:learning:writing": [
+        {
+          "question": "skills",
+          "choice": "Writing — learning"
+        }
+      ],
+      "skill-level:comfortable:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "consultant-strength:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "skill-level:learning:visual-design": [
+        {
+          "question": "skills",
+          "choice": "Visual design — learning"
+        }
+      ],
+      "skill-level:want-to-learn:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        }
+      ],
+      "growth:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        },
+        {
+          "question": "growth",
+          "choice": "Graphing"
+        }
+      ],
+      "skill-level:learning:working-with-numbers": [
+        {
+          "question": "skills",
+          "choice": "Working with numbers — learning"
+        }
+      ],
+      "skill-level:strong:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "consultant-strength:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "skill-level:learning:building": [
+        {
+          "question": "skills",
+          "choice": "Building — learning"
+        }
+      ],
+      "skill-level:learning:experimenting": [
+        {
+          "question": "skills",
+          "choice": "Experimenting — learning"
+        }
+      ],
+      "skill-level:learning:technology": [
+        {
+          "question": "skills",
+          "choice": "Technology — learning"
+        }
+      ],
+      "skill-level:learning:organization": [
+        {
+          "question": "skills",
+          "choice": "Organization — learning"
+        }
+      ],
+      "skill-level:learning:troubleshooting": [
+        {
+          "question": "skills",
+          "choice": "Troubleshooting — learning"
+        }
+      ],
+      "skill-level:learning:generating-ideas": [
+        {
+          "question": "skills",
+          "choice": "Generating ideas — learning"
+        }
+      ],
+      "skill-level:learning:asking-good-questions": [
+        {
+          "question": "skills",
+          "choice": "Asking good questions — learning"
+        }
+      ],
+      "skill-level:learning:presenting": [
+        {
+          "question": "skills",
+          "choice": "Presenting — learning"
+        }
+      ],
+      "skill-level:learning:noticing-details": [
+        {
+          "question": "skills",
+          "choice": "Noticing details — learning"
+        }
+      ],
+      "skill-level:learning:checking-evidence": [
+        {
+          "question": "skills",
+          "choice": "Checking evidence — learning"
+        }
+      ],
+      "skill-level:learning:improving-someone-else-s-idea": [
+        {
+          "question": "skills",
+          "choice": "Improving someone else’s idea — learning"
+        }
+      ],
+      "skill-level:learning:giving-useful-feedback": [
+        {
+          "question": "skills",
+          "choice": "Giving useful feedback — learning"
+        }
+      ],
+      "consultant-interest:spotting-patterns": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Spotting patterns"
+        }
+      ],
+      "consultant-interest:drawing-diagrams": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Drawing diagrams"
+        }
+      ],
+      "consultant-interest:asking-good-questions": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Asking good questions"
+        }
+      ],
+      "growth:checking-evidence": [
+        {
+          "question": "growth",
+          "choice": "Checking evidence"
+        }
+      ]
+    },
+    "tentativeBridges": [],
+    "openResponseInterpretation": "Not inferred automatically. Teacher review required before AI use."
+  },
+  {
+    "classOnlyId": "B9F3W",
+    "grade": 6,
+    "fictional": true,
+    "case": "Basketball + sneakers + gaming; uncertain about science",
+    "answers": {
+      "phenomena": [
+        "not-sure"
+      ],
+      "environments": [
+        "not-sure"
+      ],
+      "interests": [
+        "sports-basketball-soccer",
+        "fashion-sneakers-design",
+        "gaming"
+      ],
+      "interest-detail": "I like basketball, sneakers, and games. I am not sure science is my thing.",
+      "noticed": "I don’t know yet.",
+      "mysteries": [
+        "not-sure"
+      ],
+      "methods": {
+        "comparison": "excited",
+        "source-research": "open",
+        "physical-model": "open",
+        "mapping": "open",
+        "documentation": "open"
+      },
+      "problems": [
+        "not-sure"
+      ],
+      "resources": [
+        "resources-available-at-school-my-preferred-option"
+      ],
+      "sustain": [
+        "school-based",
+        "adaptive-methods"
+      ],
+      "wonder": "I don’t know yet.",
+      "scientist-question": "I don’t know yet.",
+      "skills": {
+        "finding-information": "learning",
+        "summarizing-information": "learning",
+        "explaining-difficult-ideas": "learning",
+        "writing": "learning",
+        "drawing-diagrams": "comfortable",
+        "visual-design": "learning",
+        "graphing": "want-to-learn",
+        "working-with-numbers": "learning",
+        "spotting-patterns": "strong",
+        "building": "learning",
+        "experimenting": "learning",
+        "technology": "learning",
+        "organization": "learning",
+        "troubleshooting": "learning",
+        "generating-ideas": "learning",
+        "asking-good-questions": "learning",
+        "presenting": "learning",
+        "noticing-details": "learning",
+        "checking-evidence": "learning",
+        "improving-someone-else-s-idea": "learning",
+        "giving-useful-feedback": "learning"
+      },
+      "consultant-jobs": [
+        "spotting-patterns",
+        "drawing-diagrams",
+        "asking-good-questions"
+      ],
+      "growth": [
+        "graphing",
+        "checking-evidence"
+      ],
+      "interest-focus": [
+        "how-people-test-or-improve-a-design"
+      ]
+    },
+    "tags": [
+      "consultant-interest:asking-good-questions",
+      "consultant-interest:drawing-diagrams",
+      "consultant-interest:spotting-patterns",
+      "consultant-strength:drawing-diagrams",
+      "consultant-strength:spotting-patterns",
+      "growth:checking-evidence",
+      "growth:graphing",
+      "interest-focus:how-people-test-or-improve-a-design",
+      "interest:fashion-sneakers-design",
+      "interest:gaming",
+      "interest:sports-basketball-soccer",
+      "method:comparison",
+      "method:documentation",
+      "method:mapping",
+      "method:physical-model",
+      "method:source-research",
+      "project-format:adaptive-methods",
+      "project-format:school-based",
+      "resource:resources-available-at-school-my-preferred-option",
+      "skill-level:comfortable:drawing-diagrams",
+      "skill-level:learning:asking-good-questions",
+      "skill-level:learning:building",
+      "skill-level:learning:checking-evidence",
+      "skill-level:learning:experimenting",
+      "skill-level:learning:explaining-difficult-ideas",
+      "skill-level:learning:finding-information",
+      "skill-level:learning:generating-ideas",
+      "skill-level:learning:giving-useful-feedback",
+      "skill-level:learning:improving-someone-else-s-idea",
+      "skill-level:learning:noticing-details",
+      "skill-level:learning:organization",
+      "skill-level:learning:presenting",
+      "skill-level:learning:summarizing-information",
+      "skill-level:learning:technology",
+      "skill-level:learning:troubleshooting",
+      "skill-level:learning:visual-design",
+      "skill-level:learning:working-with-numbers",
+      "skill-level:learning:writing",
+      "skill-level:strong:spotting-patterns",
+      "skill-level:want-to-learn:graphing",
+      "state:not-sure"
+    ],
+    "domainConnections": [],
+    "tagEvidence": {
+      "state:not-sure": [
+        {
+          "question": "phenomena",
+          "choice": "None of these / not sure yet"
+        },
+        {
+          "question": "environments",
+          "choice": "None of these / not sure yet"
+        },
+        {
+          "question": "mysteries",
+          "choice": "None of these / not sure yet"
+        },
+        {
+          "question": "problems",
+          "choice": "None of these / not sure yet"
+        }
+      ],
+      "interest:sports-basketball-soccer": [
+        {
+          "question": "interests",
+          "choice": "Sports / basketball / soccer"
+        }
+      ],
+      "interest:fashion-sneakers-design": [
+        {
+          "question": "interests",
+          "choice": "Fashion / sneakers / design"
+        }
+      ],
+      "interest:gaming": [
+        {
+          "question": "interests",
+          "choice": "Gaming"
+        }
+      ],
+      "interest-focus:how-people-test-or-improve-a-design": [
+        {
+          "question": "interest-focus",
+          "choice": "How people test or improve a design"
+        }
+      ],
+      "method:comparison": [
+        {
+          "question": "methods",
+          "choice": "Comparing examples — excited"
+        }
+      ],
+      "method:source-research": [
+        {
+          "question": "methods",
+          "choice": "Researching reliable sources — open"
+        }
+      ],
+      "method:physical-model": [
+        {
+          "question": "methods",
+          "choice": "Making a physical model — open"
+        }
+      ],
+      "method:mapping": [
+        {
+          "question": "methods",
+          "choice": "Mapping something — open"
+        }
+      ],
+      "method:documentation": [
+        {
+          "question": "methods",
+          "choice": "Keeping a science journal — open"
+        }
+      ],
+      "resource:resources-available-at-school-my-preferred-option": [
+        {
+          "question": "resources",
+          "choice": "Resources available at school — my preferred option"
+        }
+      ],
+      "project-format:school-based": [
+        {
+          "question": "sustain",
+          "choice": "Do most project work at school"
+        }
+      ],
+      "project-format:adaptive-methods": [
+        {
+          "question": "sustain",
+          "choice": "Change methods as the project develops"
+        }
+      ],
+      "skill-level:learning:finding-information": [
+        {
+          "question": "skills",
+          "choice": "Finding information — learning"
+        }
+      ],
+      "skill-level:learning:summarizing-information": [
+        {
+          "question": "skills",
+          "choice": "Summarizing information — learning"
+        }
+      ],
+      "skill-level:learning:explaining-difficult-ideas": [
+        {
+          "question": "skills",
+          "choice": "Explaining difficult ideas — learning"
+        }
+      ],
+      "skill-level:learning:writing": [
+        {
+          "question": "skills",
+          "choice": "Writing — learning"
+        }
+      ],
+      "skill-level:comfortable:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "consultant-strength:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "skill-level:learning:visual-design": [
+        {
+          "question": "skills",
+          "choice": "Visual design — learning"
+        }
+      ],
+      "skill-level:want-to-learn:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        }
+      ],
+      "growth:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        },
+        {
+          "question": "growth",
+          "choice": "Graphing"
+        }
+      ],
+      "skill-level:learning:working-with-numbers": [
+        {
+          "question": "skills",
+          "choice": "Working with numbers — learning"
+        }
+      ],
+      "skill-level:strong:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "consultant-strength:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "skill-level:learning:building": [
+        {
+          "question": "skills",
+          "choice": "Building — learning"
+        }
+      ],
+      "skill-level:learning:experimenting": [
+        {
+          "question": "skills",
+          "choice": "Experimenting — learning"
+        }
+      ],
+      "skill-level:learning:technology": [
+        {
+          "question": "skills",
+          "choice": "Technology — learning"
+        }
+      ],
+      "skill-level:learning:organization": [
+        {
+          "question": "skills",
+          "choice": "Organization — learning"
+        }
+      ],
+      "skill-level:learning:troubleshooting": [
+        {
+          "question": "skills",
+          "choice": "Troubleshooting — learning"
+        }
+      ],
+      "skill-level:learning:generating-ideas": [
+        {
+          "question": "skills",
+          "choice": "Generating ideas — learning"
+        }
+      ],
+      "skill-level:learning:asking-good-questions": [
+        {
+          "question": "skills",
+          "choice": "Asking good questions — learning"
+        }
+      ],
+      "skill-level:learning:presenting": [
+        {
+          "question": "skills",
+          "choice": "Presenting — learning"
+        }
+      ],
+      "skill-level:learning:noticing-details": [
+        {
+          "question": "skills",
+          "choice": "Noticing details — learning"
+        }
+      ],
+      "skill-level:learning:checking-evidence": [
+        {
+          "question": "skills",
+          "choice": "Checking evidence — learning"
+        }
+      ],
+      "skill-level:learning:improving-someone-else-s-idea": [
+        {
+          "question": "skills",
+          "choice": "Improving someone else’s idea — learning"
+        }
+      ],
+      "skill-level:learning:giving-useful-feedback": [
+        {
+          "question": "skills",
+          "choice": "Giving useful feedback — learning"
+        }
+      ],
+      "consultant-interest:spotting-patterns": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Spotting patterns"
+        }
+      ],
+      "consultant-interest:drawing-diagrams": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Drawing diagrams"
+        }
+      ],
+      "consultant-interest:asking-good-questions": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Asking good questions"
+        }
+      ],
+      "growth:checking-evidence": [
+        {
+          "question": "growth",
+          "choice": "Checking evidence"
+        }
+      ]
+    },
+    "tentativeBridges": [],
+    "openResponseInterpretation": "Not inferred automatically. Teacher review required before AI use."
+  },
+  {
+    "classOnlyId": "Z6C8H",
+    "grade": 7,
+    "fictional": true,
+    "case": "Drawing + baking + pets + fashion",
+    "answers": {
+      "phenomena": [
+        "how-does-yeast-help-bread-rise",
+        "how-can-camouflage-become-common-over-generations"
+      ],
+      "environments": [
+        "an-animal-s-habitat"
+      ],
+      "interests": [
+        "drawing-art",
+        "cooking-baking",
+        "animals-pets",
+        "fashion-sneakers-design"
+      ],
+      "interest-detail": "I like drawing animal patterns and watching dough change.",
+      "noticed": "I don’t know yet.",
+      "mysteries": [
+        "not-sure"
+      ],
+      "methods": {
+        "comparison": "excited",
+        "source-research": "open",
+        "physical-model": "open",
+        "mapping": "open",
+        "documentation": "open"
+      },
+      "problems": [
+        "not-sure"
+      ],
+      "resources": [
+        "resources-available-at-school-my-preferred-option"
+      ],
+      "sustain": [
+        "school-based",
+        "adaptive-methods"
+      ],
+      "wonder": "I don’t know yet.",
+      "scientist-question": "I don’t know yet.",
+      "skills": {
+        "finding-information": "learning",
+        "summarizing-information": "learning",
+        "explaining-difficult-ideas": "learning",
+        "writing": "learning",
+        "drawing-diagrams": "comfortable",
+        "visual-design": "learning",
+        "graphing": "want-to-learn",
+        "working-with-numbers": "learning",
+        "spotting-patterns": "strong",
+        "building": "learning",
+        "experimenting": "learning",
+        "technology": "learning",
+        "organization": "learning",
+        "troubleshooting": "learning",
+        "generating-ideas": "learning",
+        "asking-good-questions": "learning",
+        "presenting": "learning",
+        "noticing-details": "learning",
+        "checking-evidence": "learning",
+        "improving-someone-else-s-idea": "learning",
+        "giving-useful-feedback": "learning"
+      },
+      "consultant-jobs": [
+        "spotting-patterns",
+        "drawing-diagrams",
+        "asking-good-questions"
+      ],
+      "growth": [
+        "graphing",
+        "checking-evidence"
+      ],
+      "interest-focus": [
+        "how-yeast-makes-dough-rise",
+        "how-animals-use-colors-and-patterns-to-blend-in"
+      ]
+    },
+    "tags": [
+      "consultant-interest:asking-good-questions",
+      "consultant-interest:drawing-diagrams",
+      "consultant-interest:spotting-patterns",
+      "consultant-strength:drawing-diagrams",
+      "consultant-strength:spotting-patterns",
+      "domain:animal-behavior",
+      "domain:ecology",
+      "domain:evolution",
+      "domain:microbiology",
+      "domain:molecular-biology",
+      "domain:zoology",
+      "environment:an-animal-s-habitat",
+      "growth:checking-evidence",
+      "growth:graphing",
+      "interest-focus:how-animals-use-colors-and-patterns-to-blend-in",
+      "interest-focus:how-yeast-makes-dough-rise",
+      "interest:animals-pets",
+      "interest:cooking-baking",
+      "interest:drawing-art",
+      "interest:fashion-sneakers-design",
+      "method:comparison",
+      "method:documentation",
+      "method:mapping",
+      "method:physical-model",
+      "method:source-research",
+      "phenomenon:how-can-camouflage-become-common-over-generations",
+      "phenomenon:how-does-yeast-help-bread-rise",
+      "project-format:adaptive-methods",
+      "project-format:school-based",
+      "resource:resources-available-at-school-my-preferred-option",
+      "skill-level:comfortable:drawing-diagrams",
+      "skill-level:learning:asking-good-questions",
+      "skill-level:learning:building",
+      "skill-level:learning:checking-evidence",
+      "skill-level:learning:experimenting",
+      "skill-level:learning:explaining-difficult-ideas",
+      "skill-level:learning:finding-information",
+      "skill-level:learning:generating-ideas",
+      "skill-level:learning:giving-useful-feedback",
+      "skill-level:learning:improving-someone-else-s-idea",
+      "skill-level:learning:noticing-details",
+      "skill-level:learning:organization",
+      "skill-level:learning:presenting",
+      "skill-level:learning:summarizing-information",
+      "skill-level:learning:technology",
+      "skill-level:learning:troubleshooting",
+      "skill-level:learning:visual-design",
+      "skill-level:learning:working-with-numbers",
+      "skill-level:learning:writing",
+      "skill-level:strong:spotting-patterns",
+      "skill-level:want-to-learn:graphing",
+      "state:not-sure"
+    ],
+    "domainConnections": [
+      {
+        "domain": "animal-behavior",
+        "supportingQuestionIds": [
+          "environments"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "ecology",
+        "supportingQuestionIds": [
+          "environments"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "evolution",
+        "supportingQuestionIds": [
+          "phenomena",
+          "interest-focus"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "microbiology",
+        "supportingQuestionIds": [
+          "phenomena",
+          "interest-focus"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "molecular-biology",
+        "supportingQuestionIds": [
+          "phenomena",
+          "interest-focus"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "zoology",
+        "supportingQuestionIds": [
+          "phenomena",
+          "interest-focus"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      }
+    ],
+    "tagEvidence": {
+      "phenomenon:how-does-yeast-help-bread-rise": [
+        {
+          "question": "phenomena",
+          "choice": "How does yeast help bread rise?"
+        }
+      ],
+      "domain:microbiology": [
+        {
+          "question": "phenomena",
+          "choice": "How does yeast help bread rise?"
+        },
+        {
+          "question": "interest-focus",
+          "choice": "How yeast makes dough rise"
+        }
+      ],
+      "domain:molecular-biology": [
+        {
+          "question": "phenomena",
+          "choice": "How does yeast help bread rise?"
+        },
+        {
+          "question": "interest-focus",
+          "choice": "How yeast makes dough rise"
+        }
+      ],
+      "phenomenon:how-can-camouflage-become-common-over-generations": [
+        {
+          "question": "phenomena",
+          "choice": "How can camouflage become common over generations?"
+        }
+      ],
+      "domain:evolution": [
+        {
+          "question": "phenomena",
+          "choice": "How can camouflage become common over generations?"
+        },
+        {
+          "question": "interest-focus",
+          "choice": "How animals use colors and patterns to blend in"
+        }
+      ],
+      "domain:zoology": [
+        {
+          "question": "phenomena",
+          "choice": "How can camouflage become common over generations?"
+        },
+        {
+          "question": "interest-focus",
+          "choice": "How animals use colors and patterns to blend in"
+        }
+      ],
+      "environment:an-animal-s-habitat": [
+        {
+          "question": "environments",
+          "choice": "An animal’s habitat"
+        }
+      ],
+      "domain:animal-behavior": [
+        {
+          "question": "environments",
+          "choice": "An animal’s habitat"
+        }
+      ],
+      "domain:ecology": [
+        {
+          "question": "environments",
+          "choice": "An animal’s habitat"
+        }
+      ],
+      "interest:drawing-art": [
+        {
+          "question": "interests",
+          "choice": "Drawing / art"
+        }
+      ],
+      "interest:cooking-baking": [
+        {
+          "question": "interests",
+          "choice": "Cooking / baking"
+        }
+      ],
+      "interest:animals-pets": [
+        {
+          "question": "interests",
+          "choice": "Animals / pets"
+        }
+      ],
+      "interest:fashion-sneakers-design": [
+        {
+          "question": "interests",
+          "choice": "Fashion / sneakers / design"
+        }
+      ],
+      "interest-focus:how-yeast-makes-dough-rise": [
+        {
+          "question": "interest-focus",
+          "choice": "How yeast makes dough rise"
+        }
+      ],
+      "interest-focus:how-animals-use-colors-and-patterns-to-blend-in": [
+        {
+          "question": "interest-focus",
+          "choice": "How animals use colors and patterns to blend in"
+        }
+      ],
+      "state:not-sure": [
+        {
+          "question": "mysteries",
+          "choice": "None of these / not sure yet"
+        },
+        {
+          "question": "problems",
+          "choice": "None of these / not sure yet"
+        }
+      ],
+      "method:comparison": [
+        {
+          "question": "methods",
+          "choice": "Comparing examples — excited"
+        }
+      ],
+      "method:source-research": [
+        {
+          "question": "methods",
+          "choice": "Researching reliable sources — open"
+        }
+      ],
+      "method:physical-model": [
+        {
+          "question": "methods",
+          "choice": "Making a physical model — open"
+        }
+      ],
+      "method:mapping": [
+        {
+          "question": "methods",
+          "choice": "Mapping something — open"
+        }
+      ],
+      "method:documentation": [
+        {
+          "question": "methods",
+          "choice": "Keeping a science journal — open"
+        }
+      ],
+      "resource:resources-available-at-school-my-preferred-option": [
+        {
+          "question": "resources",
+          "choice": "Resources available at school — my preferred option"
+        }
+      ],
+      "project-format:school-based": [
+        {
+          "question": "sustain",
+          "choice": "Do most project work at school"
+        }
+      ],
+      "project-format:adaptive-methods": [
+        {
+          "question": "sustain",
+          "choice": "Change methods as the project develops"
+        }
+      ],
+      "skill-level:learning:finding-information": [
+        {
+          "question": "skills",
+          "choice": "Finding information — learning"
+        }
+      ],
+      "skill-level:learning:summarizing-information": [
+        {
+          "question": "skills",
+          "choice": "Summarizing information — learning"
+        }
+      ],
+      "skill-level:learning:explaining-difficult-ideas": [
+        {
+          "question": "skills",
+          "choice": "Explaining difficult ideas — learning"
+        }
+      ],
+      "skill-level:learning:writing": [
+        {
+          "question": "skills",
+          "choice": "Writing — learning"
+        }
+      ],
+      "skill-level:comfortable:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "consultant-strength:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "skill-level:learning:visual-design": [
+        {
+          "question": "skills",
+          "choice": "Visual design — learning"
+        }
+      ],
+      "skill-level:want-to-learn:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        }
+      ],
+      "growth:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        },
+        {
+          "question": "growth",
+          "choice": "Graphing"
+        }
+      ],
+      "skill-level:learning:working-with-numbers": [
+        {
+          "question": "skills",
+          "choice": "Working with numbers — learning"
+        }
+      ],
+      "skill-level:strong:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "consultant-strength:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "skill-level:learning:building": [
+        {
+          "question": "skills",
+          "choice": "Building — learning"
+        }
+      ],
+      "skill-level:learning:experimenting": [
+        {
+          "question": "skills",
+          "choice": "Experimenting — learning"
+        }
+      ],
+      "skill-level:learning:technology": [
+        {
+          "question": "skills",
+          "choice": "Technology — learning"
+        }
+      ],
+      "skill-level:learning:organization": [
+        {
+          "question": "skills",
+          "choice": "Organization — learning"
+        }
+      ],
+      "skill-level:learning:troubleshooting": [
+        {
+          "question": "skills",
+          "choice": "Troubleshooting — learning"
+        }
+      ],
+      "skill-level:learning:generating-ideas": [
+        {
+          "question": "skills",
+          "choice": "Generating ideas — learning"
+        }
+      ],
+      "skill-level:learning:asking-good-questions": [
+        {
+          "question": "skills",
+          "choice": "Asking good questions — learning"
+        }
+      ],
+      "skill-level:learning:presenting": [
+        {
+          "question": "skills",
+          "choice": "Presenting — learning"
+        }
+      ],
+      "skill-level:learning:noticing-details": [
+        {
+          "question": "skills",
+          "choice": "Noticing details — learning"
+        }
+      ],
+      "skill-level:learning:checking-evidence": [
+        {
+          "question": "skills",
+          "choice": "Checking evidence — learning"
+        }
+      ],
+      "skill-level:learning:improving-someone-else-s-idea": [
+        {
+          "question": "skills",
+          "choice": "Improving someone else’s idea — learning"
+        }
+      ],
+      "skill-level:learning:giving-useful-feedback": [
+        {
+          "question": "skills",
+          "choice": "Giving useful feedback — learning"
+        }
+      ],
+      "consultant-interest:spotting-patterns": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Spotting patterns"
+        }
+      ],
+      "consultant-interest:drawing-diagrams": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Drawing diagrams"
+        }
+      ],
+      "consultant-interest:asking-good-questions": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Asking good questions"
+        }
+      ],
+      "growth:checking-evidence": [
+        {
+          "question": "growth",
+          "choice": "Checking evidence"
+        }
+      ]
+    },
+    "tentativeBridges": [
+      {
+        "domains": [
+          "evolution",
+          "zoology"
+        ],
+        "idea": "Compare visual patterns in documented camouflage examples.",
+        "basis": "Art/design interests + a selected evolution connection.",
+        "status": "teacher-review-hypothesis"
+      },
+      {
+        "domains": [
+          "microbiology"
+        ],
+        "idea": "Investigate a teacher-approved model or dataset about yeast and food.",
+        "basis": "Baking interest + a selected microbiology connection; no unknown cultures.",
+        "status": "teacher-review-hypothesis"
+      }
+    ],
+    "openResponseInterpretation": "Not inferred automatically. Teacher review required before AI use."
+  },
+  {
+    "classOnlyId": "M4D7Q",
+    "grade": 7,
+    "fictional": true,
+    "case": "Basketball + gaming + sneakers",
+    "answers": {
+      "phenomena": [
+        "why-do-muscles-get-tired"
+      ],
+      "environments": [
+        "the-human-body-through-models"
+      ],
+      "interests": [
+        "sports-basketball-soccer",
+        "gaming",
+        "fashion-sneakers-design"
+      ],
+      "interest-detail": "I wonder why I tire out and why shoes feel different. I want to use models or existing data.",
+      "noticed": "I don’t know yet.",
+      "mysteries": [
+        "not-sure"
+      ],
+      "methods": {
+        "comparison": "excited",
+        "source-research": "open",
+        "physical-model": "open",
+        "mapping": "open",
+        "documentation": "open"
+      },
+      "problems": [
+        "not-sure"
+      ],
+      "resources": [
+        "resources-available-at-school-my-preferred-option"
+      ],
+      "sustain": [
+        "school-based",
+        "adaptive-methods"
+      ],
+      "wonder": "I don’t know yet.",
+      "scientist-question": "I don’t know yet.",
+      "skills": {
+        "finding-information": "learning",
+        "summarizing-information": "learning",
+        "explaining-difficult-ideas": "learning",
+        "writing": "learning",
+        "drawing-diagrams": "comfortable",
+        "visual-design": "learning",
+        "graphing": "want-to-learn",
+        "working-with-numbers": "learning",
+        "spotting-patterns": "strong",
+        "building": "learning",
+        "experimenting": "learning",
+        "technology": "learning",
+        "organization": "learning",
+        "troubleshooting": "learning",
+        "generating-ideas": "learning",
+        "asking-good-questions": "learning",
+        "presenting": "learning",
+        "noticing-details": "learning",
+        "checking-evidence": "learning",
+        "improving-someone-else-s-idea": "learning",
+        "giving-useful-feedback": "learning"
+      },
+      "consultant-jobs": [
+        "spotting-patterns",
+        "drawing-diagrams",
+        "asking-good-questions"
+      ],
+      "growth": [
+        "graphing",
+        "checking-evidence"
+      ],
+      "interest-focus": [
+        "how-movement-uses-muscles-and-energy"
+      ]
+    },
+    "tags": [
+      "consultant-interest:asking-good-questions",
+      "consultant-interest:drawing-diagrams",
+      "consultant-interest:spotting-patterns",
+      "consultant-strength:drawing-diagrams",
+      "consultant-strength:spotting-patterns",
+      "domain:anatomy",
+      "domain:physiology",
+      "environment:the-human-body-through-models",
+      "growth:checking-evidence",
+      "growth:graphing",
+      "interest-focus:how-movement-uses-muscles-and-energy",
+      "interest:fashion-sneakers-design",
+      "interest:gaming",
+      "interest:sports-basketball-soccer",
+      "method:comparison",
+      "method:documentation",
+      "method:mapping",
+      "method:physical-model",
+      "method:source-research",
+      "phenomenon:why-do-muscles-get-tired",
+      "project-format:adaptive-methods",
+      "project-format:school-based",
+      "resource:resources-available-at-school-my-preferred-option",
+      "skill-level:comfortable:drawing-diagrams",
+      "skill-level:learning:asking-good-questions",
+      "skill-level:learning:building",
+      "skill-level:learning:checking-evidence",
+      "skill-level:learning:experimenting",
+      "skill-level:learning:explaining-difficult-ideas",
+      "skill-level:learning:finding-information",
+      "skill-level:learning:generating-ideas",
+      "skill-level:learning:giving-useful-feedback",
+      "skill-level:learning:improving-someone-else-s-idea",
+      "skill-level:learning:noticing-details",
+      "skill-level:learning:organization",
+      "skill-level:learning:presenting",
+      "skill-level:learning:summarizing-information",
+      "skill-level:learning:technology",
+      "skill-level:learning:troubleshooting",
+      "skill-level:learning:visual-design",
+      "skill-level:learning:working-with-numbers",
+      "skill-level:learning:writing",
+      "skill-level:strong:spotting-patterns",
+      "skill-level:want-to-learn:graphing",
+      "state:not-sure"
+    ],
+    "domainConnections": [
+      {
+        "domain": "anatomy",
+        "supportingQuestionIds": [
+          "environments",
+          "interest-focus"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      },
+      {
+        "domain": "physiology",
+        "supportingQuestionIds": [
+          "phenomena",
+          "environments",
+          "interest-focus"
+        ],
+        "basis": "Selected science phenomenon, environment, problem, or explicit interest follow-up; possibility to explore, not aptitude."
+      }
+    ],
+    "tagEvidence": {
+      "phenomenon:why-do-muscles-get-tired": [
+        {
+          "question": "phenomena",
+          "choice": "Why do muscles get tired?"
+        }
+      ],
+      "domain:physiology": [
+        {
+          "question": "phenomena",
+          "choice": "Why do muscles get tired?"
+        },
+        {
+          "question": "environments",
+          "choice": "The human body, through models"
+        },
+        {
+          "question": "interest-focus",
+          "choice": "How movement uses muscles and energy"
+        }
+      ],
+      "environment:the-human-body-through-models": [
+        {
+          "question": "environments",
+          "choice": "The human body, through models"
+        }
+      ],
+      "domain:anatomy": [
+        {
+          "question": "environments",
+          "choice": "The human body, through models"
+        },
+        {
+          "question": "interest-focus",
+          "choice": "How movement uses muscles and energy"
+        }
+      ],
+      "interest:sports-basketball-soccer": [
+        {
+          "question": "interests",
+          "choice": "Sports / basketball / soccer"
+        }
+      ],
+      "interest:gaming": [
+        {
+          "question": "interests",
+          "choice": "Gaming"
+        }
+      ],
+      "interest:fashion-sneakers-design": [
+        {
+          "question": "interests",
+          "choice": "Fashion / sneakers / design"
+        }
+      ],
+      "interest-focus:how-movement-uses-muscles-and-energy": [
+        {
+          "question": "interest-focus",
+          "choice": "How movement uses muscles and energy"
+        }
+      ],
+      "state:not-sure": [
+        {
+          "question": "mysteries",
+          "choice": "None of these / not sure yet"
+        },
+        {
+          "question": "problems",
+          "choice": "None of these / not sure yet"
+        }
+      ],
+      "method:comparison": [
+        {
+          "question": "methods",
+          "choice": "Comparing examples — excited"
+        }
+      ],
+      "method:source-research": [
+        {
+          "question": "methods",
+          "choice": "Researching reliable sources — open"
+        }
+      ],
+      "method:physical-model": [
+        {
+          "question": "methods",
+          "choice": "Making a physical model — open"
+        }
+      ],
+      "method:mapping": [
+        {
+          "question": "methods",
+          "choice": "Mapping something — open"
+        }
+      ],
+      "method:documentation": [
+        {
+          "question": "methods",
+          "choice": "Keeping a science journal — open"
+        }
+      ],
+      "resource:resources-available-at-school-my-preferred-option": [
+        {
+          "question": "resources",
+          "choice": "Resources available at school — my preferred option"
+        }
+      ],
+      "project-format:school-based": [
+        {
+          "question": "sustain",
+          "choice": "Do most project work at school"
+        }
+      ],
+      "project-format:adaptive-methods": [
+        {
+          "question": "sustain",
+          "choice": "Change methods as the project develops"
+        }
+      ],
+      "skill-level:learning:finding-information": [
+        {
+          "question": "skills",
+          "choice": "Finding information — learning"
+        }
+      ],
+      "skill-level:learning:summarizing-information": [
+        {
+          "question": "skills",
+          "choice": "Summarizing information — learning"
+        }
+      ],
+      "skill-level:learning:explaining-difficult-ideas": [
+        {
+          "question": "skills",
+          "choice": "Explaining difficult ideas — learning"
+        }
+      ],
+      "skill-level:learning:writing": [
+        {
+          "question": "skills",
+          "choice": "Writing — learning"
+        }
+      ],
+      "skill-level:comfortable:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "consultant-strength:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "skill-level:learning:visual-design": [
+        {
+          "question": "skills",
+          "choice": "Visual design — learning"
+        }
+      ],
+      "skill-level:want-to-learn:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        }
+      ],
+      "growth:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        },
+        {
+          "question": "growth",
+          "choice": "Graphing"
+        }
+      ],
+      "skill-level:learning:working-with-numbers": [
+        {
+          "question": "skills",
+          "choice": "Working with numbers — learning"
+        }
+      ],
+      "skill-level:strong:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "consultant-strength:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "skill-level:learning:building": [
+        {
+          "question": "skills",
+          "choice": "Building — learning"
+        }
+      ],
+      "skill-level:learning:experimenting": [
+        {
+          "question": "skills",
+          "choice": "Experimenting — learning"
+        }
+      ],
+      "skill-level:learning:technology": [
+        {
+          "question": "skills",
+          "choice": "Technology — learning"
+        }
+      ],
+      "skill-level:learning:organization": [
+        {
+          "question": "skills",
+          "choice": "Organization — learning"
+        }
+      ],
+      "skill-level:learning:troubleshooting": [
+        {
+          "question": "skills",
+          "choice": "Troubleshooting — learning"
+        }
+      ],
+      "skill-level:learning:generating-ideas": [
+        {
+          "question": "skills",
+          "choice": "Generating ideas — learning"
+        }
+      ],
+      "skill-level:learning:asking-good-questions": [
+        {
+          "question": "skills",
+          "choice": "Asking good questions — learning"
+        }
+      ],
+      "skill-level:learning:presenting": [
+        {
+          "question": "skills",
+          "choice": "Presenting — learning"
+        }
+      ],
+      "skill-level:learning:noticing-details": [
+        {
+          "question": "skills",
+          "choice": "Noticing details — learning"
+        }
+      ],
+      "skill-level:learning:checking-evidence": [
+        {
+          "question": "skills",
+          "choice": "Checking evidence — learning"
+        }
+      ],
+      "skill-level:learning:improving-someone-else-s-idea": [
+        {
+          "question": "skills",
+          "choice": "Improving someone else’s idea — learning"
+        }
+      ],
+      "skill-level:learning:giving-useful-feedback": [
+        {
+          "question": "skills",
+          "choice": "Giving useful feedback — learning"
+        }
+      ],
+      "consultant-interest:spotting-patterns": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Spotting patterns"
+        }
+      ],
+      "consultant-interest:drawing-diagrams": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Drawing diagrams"
+        }
+      ],
+      "consultant-interest:asking-good-questions": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Asking good questions"
+        }
+      ],
+      "growth:checking-evidence": [
+        {
+          "question": "growth",
+          "choice": "Checking evidence"
+        }
+      ]
+    },
+    "tentativeBridges": [],
+    "openResponseInterpretation": "Not inferred automatically. Teacher review required before AI use."
+  },
+  {
+    "classOnlyId": "R5N8K",
+    "grade": 7,
+    "fictional": true,
+    "case": "Music + puzzles + reading; no specific biology signal yet",
+    "answers": {
+      "phenomena": [
+        "not-sure"
+      ],
+      "environments": [
+        "not-sure"
+      ],
+      "interests": [
+        "music",
+        "puzzles",
+        "reading-stories"
+      ],
+      "interest-detail": "I like finding rules in puzzles. I do not have a living-things question yet.",
+      "noticed": "I don’t know yet.",
+      "mysteries": [
+        "not-sure"
+      ],
+      "methods": {
+        "comparison": "excited",
+        "source-research": "open",
+        "physical-model": "open",
+        "mapping": "open",
+        "documentation": "open"
+      },
+      "problems": [
+        "not-sure"
+      ],
+      "resources": [
+        "resources-available-at-school-my-preferred-option"
+      ],
+      "sustain": [
+        "school-based",
+        "adaptive-methods"
+      ],
+      "wonder": "I don’t know yet.",
+      "scientist-question": "I don’t know yet.",
+      "skills": {
+        "finding-information": "learning",
+        "summarizing-information": "learning",
+        "explaining-difficult-ideas": "learning",
+        "writing": "learning",
+        "drawing-diagrams": "comfortable",
+        "visual-design": "learning",
+        "graphing": "want-to-learn",
+        "working-with-numbers": "learning",
+        "spotting-patterns": "strong",
+        "building": "learning",
+        "experimenting": "learning",
+        "technology": "learning",
+        "organization": "learning",
+        "troubleshooting": "learning",
+        "generating-ideas": "learning",
+        "asking-good-questions": "learning",
+        "presenting": "learning",
+        "noticing-details": "learning",
+        "checking-evidence": "learning",
+        "improving-someone-else-s-idea": "learning",
+        "giving-useful-feedback": "learning"
+      },
+      "consultant-jobs": [
+        "spotting-patterns",
+        "drawing-diagrams",
+        "asking-good-questions"
+      ],
+      "growth": [
+        "graphing",
+        "checking-evidence"
+      ],
+      "interest-focus": [
+        "how-instructions-or-codes-can-build-something-complex"
+      ]
+    },
+    "tags": [
+      "consultant-interest:asking-good-questions",
+      "consultant-interest:drawing-diagrams",
+      "consultant-interest:spotting-patterns",
+      "consultant-strength:drawing-diagrams",
+      "consultant-strength:spotting-patterns",
+      "growth:checking-evidence",
+      "growth:graphing",
+      "interest-focus:how-instructions-or-codes-can-build-something-complex",
+      "interest:music",
+      "interest:puzzles",
+      "interest:reading-stories",
+      "method:comparison",
+      "method:documentation",
+      "method:mapping",
+      "method:physical-model",
+      "method:source-research",
+      "project-format:adaptive-methods",
+      "project-format:school-based",
+      "resource:resources-available-at-school-my-preferred-option",
+      "skill-level:comfortable:drawing-diagrams",
+      "skill-level:learning:asking-good-questions",
+      "skill-level:learning:building",
+      "skill-level:learning:checking-evidence",
+      "skill-level:learning:experimenting",
+      "skill-level:learning:explaining-difficult-ideas",
+      "skill-level:learning:finding-information",
+      "skill-level:learning:generating-ideas",
+      "skill-level:learning:giving-useful-feedback",
+      "skill-level:learning:improving-someone-else-s-idea",
+      "skill-level:learning:noticing-details",
+      "skill-level:learning:organization",
+      "skill-level:learning:presenting",
+      "skill-level:learning:summarizing-information",
+      "skill-level:learning:technology",
+      "skill-level:learning:troubleshooting",
+      "skill-level:learning:visual-design",
+      "skill-level:learning:working-with-numbers",
+      "skill-level:learning:writing",
+      "skill-level:strong:spotting-patterns",
+      "skill-level:want-to-learn:graphing",
+      "state:not-sure"
+    ],
+    "domainConnections": [],
+    "tagEvidence": {
+      "state:not-sure": [
+        {
+          "question": "phenomena",
+          "choice": "None of these / not sure yet"
+        },
+        {
+          "question": "environments",
+          "choice": "None of these / not sure yet"
+        },
+        {
+          "question": "mysteries",
+          "choice": "None of these / not sure yet"
+        },
+        {
+          "question": "problems",
+          "choice": "None of these / not sure yet"
+        }
+      ],
+      "interest:music": [
+        {
+          "question": "interests",
+          "choice": "Music"
+        }
+      ],
+      "interest:puzzles": [
+        {
+          "question": "interests",
+          "choice": "Puzzles"
+        }
+      ],
+      "interest:reading-stories": [
+        {
+          "question": "interests",
+          "choice": "Reading / stories"
+        }
+      ],
+      "interest-focus:how-instructions-or-codes-can-build-something-complex": [
+        {
+          "question": "interest-focus",
+          "choice": "How instructions or codes can build something complex"
+        }
+      ],
+      "method:comparison": [
+        {
+          "question": "methods",
+          "choice": "Comparing examples — excited"
+        }
+      ],
+      "method:source-research": [
+        {
+          "question": "methods",
+          "choice": "Researching reliable sources — open"
+        }
+      ],
+      "method:physical-model": [
+        {
+          "question": "methods",
+          "choice": "Making a physical model — open"
+        }
+      ],
+      "method:mapping": [
+        {
+          "question": "methods",
+          "choice": "Mapping something — open"
+        }
+      ],
+      "method:documentation": [
+        {
+          "question": "methods",
+          "choice": "Keeping a science journal — open"
+        }
+      ],
+      "resource:resources-available-at-school-my-preferred-option": [
+        {
+          "question": "resources",
+          "choice": "Resources available at school — my preferred option"
+        }
+      ],
+      "project-format:school-based": [
+        {
+          "question": "sustain",
+          "choice": "Do most project work at school"
+        }
+      ],
+      "project-format:adaptive-methods": [
+        {
+          "question": "sustain",
+          "choice": "Change methods as the project develops"
+        }
+      ],
+      "skill-level:learning:finding-information": [
+        {
+          "question": "skills",
+          "choice": "Finding information — learning"
+        }
+      ],
+      "skill-level:learning:summarizing-information": [
+        {
+          "question": "skills",
+          "choice": "Summarizing information — learning"
+        }
+      ],
+      "skill-level:learning:explaining-difficult-ideas": [
+        {
+          "question": "skills",
+          "choice": "Explaining difficult ideas — learning"
+        }
+      ],
+      "skill-level:learning:writing": [
+        {
+          "question": "skills",
+          "choice": "Writing — learning"
+        }
+      ],
+      "skill-level:comfortable:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "consultant-strength:drawing-diagrams": [
+        {
+          "question": "skills",
+          "choice": "Drawing diagrams — comfortable"
+        }
+      ],
+      "skill-level:learning:visual-design": [
+        {
+          "question": "skills",
+          "choice": "Visual design — learning"
+        }
+      ],
+      "skill-level:want-to-learn:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        }
+      ],
+      "growth:graphing": [
+        {
+          "question": "skills",
+          "choice": "Graphing — want-to-learn"
+        },
+        {
+          "question": "growth",
+          "choice": "Graphing"
+        }
+      ],
+      "skill-level:learning:working-with-numbers": [
+        {
+          "question": "skills",
+          "choice": "Working with numbers — learning"
+        }
+      ],
+      "skill-level:strong:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "consultant-strength:spotting-patterns": [
+        {
+          "question": "skills",
+          "choice": "Spotting patterns — strong"
+        }
+      ],
+      "skill-level:learning:building": [
+        {
+          "question": "skills",
+          "choice": "Building — learning"
+        }
+      ],
+      "skill-level:learning:experimenting": [
+        {
+          "question": "skills",
+          "choice": "Experimenting — learning"
+        }
+      ],
+      "skill-level:learning:technology": [
+        {
+          "question": "skills",
+          "choice": "Technology — learning"
+        }
+      ],
+      "skill-level:learning:organization": [
+        {
+          "question": "skills",
+          "choice": "Organization — learning"
+        }
+      ],
+      "skill-level:learning:troubleshooting": [
+        {
+          "question": "skills",
+          "choice": "Troubleshooting — learning"
+        }
+      ],
+      "skill-level:learning:generating-ideas": [
+        {
+          "question": "skills",
+          "choice": "Generating ideas — learning"
+        }
+      ],
+      "skill-level:learning:asking-good-questions": [
+        {
+          "question": "skills",
+          "choice": "Asking good questions — learning"
+        }
+      ],
+      "skill-level:learning:presenting": [
+        {
+          "question": "skills",
+          "choice": "Presenting — learning"
+        }
+      ],
+      "skill-level:learning:noticing-details": [
+        {
+          "question": "skills",
+          "choice": "Noticing details — learning"
+        }
+      ],
+      "skill-level:learning:checking-evidence": [
+        {
+          "question": "skills",
+          "choice": "Checking evidence — learning"
+        }
+      ],
+      "skill-level:learning:improving-someone-else-s-idea": [
+        {
+          "question": "skills",
+          "choice": "Improving someone else’s idea — learning"
+        }
+      ],
+      "skill-level:learning:giving-useful-feedback": [
+        {
+          "question": "skills",
+          "choice": "Giving useful feedback — learning"
+        }
+      ],
+      "consultant-interest:spotting-patterns": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Spotting patterns"
+        }
+      ],
+      "consultant-interest:drawing-diagrams": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Drawing diagrams"
+        }
+      ],
+      "consultant-interest:asking-good-questions": [
+        {
+          "question": "consultant-jobs",
+          "choice": "Asking good questions"
+        }
+      ],
+      "growth:checking-evidence": [
+        {
+          "question": "growth",
+          "choice": "Checking evidence"
+        }
+      ]
+    },
+    "tentativeBridges": [],
+    "openResponseInterpretation": "Not inferred automatically. Teacher review required before AI use."
+  }
+]

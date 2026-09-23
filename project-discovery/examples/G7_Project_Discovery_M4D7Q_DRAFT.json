@@ -1,0 +1,82 @@
+{
+  "app": "IACA_PROJECT_DISCOVERY",
+  "kind": "draft",
+  "schemaVersion": "2.0",
+  "questionnaireVersion": "IACA-PD-2.0",
+  "exportedAt": "2026-09-23T21:10:57.689Z",
+  "classOnlyId": "M4D7Q",
+  "grade": 7,
+  "period": "3",
+  "answers": {
+    "phenomena": [
+      "why-do-muscles-get-tired"
+    ],
+    "environments": [
+      "the-human-body-through-models"
+    ],
+    "interests": [
+      "sports-basketball-soccer",
+      "gaming",
+      "fashion-sneakers-design"
+    ],
+    "interest-detail": "I wonder why I tire out and why shoes feel different. I want to use models or existing data.",
+    "noticed": "I don’t know yet.",
+    "mysteries": [
+      "not-sure"
+    ],
+    "methods": {
+      "comparison": "excited",
+      "source-research": "open",
+      "physical-model": "open",
+      "mapping": "open",
+      "documentation": "open"
+    },
+    "problems": [
+      "not-sure"
+    ],
+    "resources": [
+      "resources-available-at-school-my-preferred-option"
+    ],
+    "sustain": [
+      "school-based",
+      "adaptive-methods"
+    ],
+    "wonder": "I don’t know yet.",
+    "scientist-question": "I don’t know yet.",
+    "skills": {
+      "finding-information": "learning",
+      "summarizing-information": "learning",
+      "explaining-difficult-ideas": "learning",
+      "writing": "learning",
+      "drawing-diagrams": "comfortable",
+      "visual-design": "learning",
+      "graphing": "want-to-learn",
+      "working-with-numbers": "learning",
+      "spotting-patterns": "strong",
+      "building": "learning",
+      "experimenting": "learning",
+      "technology": "learning",
+      "organization": "learning",
+      "troubleshooting": "learning",
+      "generating-ideas": "learning",
+      "asking-good-questions": "learning",
+      "presenting": "learning",
+      "noticing-details": "learning",
+      "checking-evidence": "learning",
+      "improving-someone-else-s-idea": "learning",
+      "giving-useful-feedback": "learning"
+    },
+    "consultant-jobs": [
+      "spotting-patterns",
+      "drawing-diagrams",
+      "asking-good-questions"
+    ],
+    "growth": [
+      "graphing",
+      "checking-evidence"
+    ],
+    "interest-focus": [
+      "how-movement-uses-muscles-and-energy"
+    ]
+  }
+}

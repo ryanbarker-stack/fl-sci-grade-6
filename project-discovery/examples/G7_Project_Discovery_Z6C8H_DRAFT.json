@@ -1,0 +1,85 @@
+{
+  "app": "IACA_PROJECT_DISCOVERY",
+  "kind": "draft",
+  "schemaVersion": "2.0",
+  "questionnaireVersion": "IACA-PD-2.0",
+  "exportedAt": "2026-09-23T21:10:57.688Z",
+  "classOnlyId": "Z6C8H",
+  "grade": 7,
+  "period": "3",
+  "answers": {
+    "phenomena": [
+      "how-does-yeast-help-bread-rise",
+      "how-can-camouflage-become-common-over-generations"
+    ],
+    "environments": [
+      "an-animal-s-habitat"
+    ],
+    "interests": [
+      "drawing-art",
+      "cooking-baking",
+      "animals-pets",
+      "fashion-sneakers-design"
+    ],
+    "interest-detail": "I like drawing animal patterns and watching dough change.",
+    "noticed": "I don’t know yet.",
+    "mysteries": [
+      "not-sure"
+    ],
+    "methods": {
+      "comparison": "excited",
+      "source-research": "open",
+      "physical-model": "open",
+      "mapping": "open",
+      "documentation": "open"
+    },
+    "problems": [
+      "not-sure"
+    ],
+    "resources": [
+      "resources-available-at-school-my-preferred-option"
+    ],
+    "sustain": [
+      "school-based",
+      "adaptive-methods"
+    ],
+    "wonder": "I don’t know yet.",
+    "scientist-question": "I don’t know yet.",
+    "skills": {
+      "finding-information": "learning",
+      "summarizing-information": "learning",
+      "explaining-difficult-ideas": "learning",
+      "writing": "learning",
+      "drawing-diagrams": "comfortable",
+      "visual-design": "learning",
+      "graphing": "want-to-learn",
+      "working-with-numbers": "learning",
+      "spotting-patterns": "strong",
+      "building": "learning",
+      "experimenting": "learning",
+      "technology": "learning",
+      "organization": "learning",
+      "troubleshooting": "learning",
+      "generating-ideas": "learning",
+      "asking-good-questions": "learning",
+      "presenting": "learning",
+      "noticing-details": "learning",
+      "checking-evidence": "learning",
+      "improving-someone-else-s-idea": "learning",
+      "giving-useful-feedback": "learning"
+    },
+    "consultant-jobs": [
+      "spotting-patterns",
+      "drawing-diagrams",
+      "asking-good-questions"
+    ],
+    "growth": [
+      "graphing",
+      "checking-evidence"
+    ],
+    "interest-focus": [
+      "how-yeast-makes-dough-rise",
+      "how-animals-use-colors-and-patterns-to-blend-in"
+    ]
+  }
+}
