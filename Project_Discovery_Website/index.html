@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Find science connections in things you already care about. IACA Project Discovery for Grades 6 and 7.">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'none'; form-action 'none'; base-uri 'none'; object-src 'none'">
+<title>Project Discovery · IACA Science</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23164c3c'/%3E%3Cpath d='M7 24V8h9a6 6 0 0 1 0 12h-4v4M12 13v2h4a1 1 0 0 0 0-2z' fill='white'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/styles.css">
+<script defer src="js/config.js"></script><script defer src="js/questions-common.js"></script><script defer src="js/questions-g6.js"></script><script defer src="js/questions-g7.js"></script><script defer src="js/tagging.js"></script><script defer src="js/storage.js"></script><script defer src="js/export.js"></script><script defer src="js/app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to questionnaire</a>
+<header class="site-header"><a class="brand" href="#main" aria-label="IACA Science Project Discovery"><span class="brand-mark" aria-hidden="true">P</span><span>IACA SCIENCE <small>YEAR-LONG PROJECT</small></span></a><span class="header-note">Your interests. New questions.</span></header>
+<main id="main">
+<section id="welcome" class="welcome" aria-labelledby="welcome-title">
+<div class="intro"><p class="eyebrow">DISCOVER • FIRST STEP</p><h1 id="welcome-title">Science starts with<br>what you notice.</h1><p class="lead">Today, you’re looking for connections inside things you already care about. You are <strong>not choosing your final project.</strong></p><p>You’ll lead your own project and be a temporary consultant on classmates’ projects. Your ideas can change as new evidence gives you a reason.</p><div class="intro-facts"><span>25–30 minutes</span><span>No “correct” interests</span><span>Short answers are enough</span></div></div>
+<div class="start-panel"><h2>Choose your class</h2><div id="grade-buttons" class="grade-buttons"></div>
+<form id="start-form" hidden novalidate><h3 id="chosen-grade"></h3><label for="student-name">Full name</label><input id="student-name" type="text" autocomplete="off" autocapitalize="words" spellcheck="false" maxlength="100" aria-describedby="name-help start-error"><p id="name-help" class="hint"></p><div id="period-wrap"><label for="period">Class period</label><select id="period"></select></div><p class="privacy-note">Your name goes on the file you turn in to your teacher. <strong>Keep contact details and other people’s names out of your written answers.</strong></p><p id="start-error" class="error" role="alert"></p><button class="primary" type="submit">Begin / recover my answers</button></form>
+<div class="resume"><button type="button" class="text-button" id="import-start">Open a saved draft file</button><button type="button" class="text-button" id="recover-older">Recover older saved work on this device</button><p class="hint">Returning after a refresh? Choose your grade and enter the same name and period to find saved answers on this device.</p></div></div>
+</section>
+<div id="workspace" hidden>
+<div class="work-toolbar"><div><strong id="identity-badge"></strong><button id="edit-identity" class="text-button">Edit name or period</button><button id="change-class" class="text-button">Change grade</button></div><div class="tool-buttons"><button id="save-draft">Save draft to file</button><button id="open-draft">Open draft</button></div><p id="save-state" role="status">Answers are only on this device.</p></div>
+<div class="progress-panel"><div class="progress-label"><strong id="progress-text">0% complete</strong><span id="section-position">Discover</span></div><progress id="progress" max="100" value="0">0%</progress><nav id="milestones" aria-label="Project discovery milestones"></nav></div>
+<div class="question-layout"><aside><nav id="section-nav" aria-label="Questionnaire sections"></nav><p class="aside-note">You can change any answer. “Not sure yet” is a real answer.</p></aside><div id="questionnaire"></div></div>
+</div>
+<section id="finish" class="finish" hidden aria-labelledby="finish-title" tabindex="-1"></section>
+<div class="device-tools"><button id="clear-device" class="text-button danger">Clear this device’s saved answers</button><p>Your answers stay in this browser until you download a file. You decide when to attach it in Classroom.</p></div>
+<input id="draft-input" type="file" accept=".json,application/json" hidden>
+<div id="status" class="status" role="status" aria-live="polite"></div>
+<dialog id="confirm-dialog" aria-labelledby="dialog-title"><h2 id="dialog-title"></h2><p id="dialog-message"></p><div id="dialog-actions" class="actions"></div></dialog>
+<noscript><p class="error">This questionnaire needs JavaScript. Ask your teacher for help if your school browser blocks it.</p></noscript>
+</main>
+<footer>IACA Science · Project Discovery <span id="version"></span></footer>
+</body></html>
